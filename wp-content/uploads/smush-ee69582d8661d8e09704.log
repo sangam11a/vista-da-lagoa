@@ -1,0 +1,357 @@
+[2021-11-09 04:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:19 : INFO] - 
+ 
+[2021-11-09 04:46:19 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 04:46:19 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 04:46:19 : INFO] - WP: 5.8.1 
+[2021-11-09 04:46:19 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 04:46:19 : INFO] - MySQL: 5.5.5 
+[2021-11-09 04:46:19 : INFO] - WPLANG: en_US 
+[2021-11-09 04:46:19 : INFO] - Server: LiteSpeed 
+[2021-11-09 04:46:19 : INFO] - Outbound connections: N 
+[2021-11-09 04:46:19 : INFO] - safe_mode: 0 
+[2021-11-09 04:46:19 : INFO] - max_execution_time: 30 
+[2021-11-09 04:46:19 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 04:46:19 : INFO] - multisite: N 
+[2021-11-09 04:46:19 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 04:46:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-09 04:46:19 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 04:46:19 
+[2021-11-09 04:46:19 : INFO] - Semaphore lock (smush) complete 
+[2021-11-09 04:46:19 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-11-09 04:46:19 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:19 : INFO] - 95 
+[2021-11-09 04:46:23 : INFO] - Backing up the original image - 2021/11/live-updraft-pre-smush-original.jpg 
+[2021-11-09 04:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:23 : INFO] - 95 
+[2021-11-09 04:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:23 : INFO] - 95 
+[2021-11-09 04:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:24 : INFO] - 95 
+[2021-11-09 04:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : November 09, 2021 04:41:15 
+[2021-11-09 04:46:25 : INFO] - 95 
+[2021-11-09 04:46:27 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/live.jpg.The file was compressed from 55.24 KB to 49.96 KB saving 9.56 percent using WP-Optimize 
+[2021-11-09 04:46:27 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-11-09 04:46:27 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-09 04:46:27 : INFO] - Semaphore (smush) unlocked 
+[2021-11-09 04:46:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-09 04:46:27 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-09 04:46:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-09 04:52:39 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:52:41 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:52:47 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:56:22 : INFO] - 
+ 
+[2021-11-09 04:56:22 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 04:56:22 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 04:56:22 : INFO] - WP: 5.8.1 
+[2021-11-09 04:56:22 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 04:56:22 : INFO] - MySQL: 5.5.5 
+[2021-11-09 04:56:22 : INFO] - WPLANG: en_US 
+[2021-11-09 04:56:22 : INFO] - Server: LiteSpeed 
+[2021-11-09 04:56:22 : INFO] - Outbound connections: N 
+[2021-11-09 04:56:22 : INFO] - safe_mode: 0 
+[2021-11-09 04:56:22 : INFO] - max_execution_time: 30 
+[2021-11-09 04:56:22 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 04:56:22 : INFO] - multisite: N 
+[2021-11-09 04:56:22 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 04:56:22 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-11-09 04:56:22 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 04:56:22 
+[2021-11-09 04:56:22 : INFO] - Semaphore lock (smush) complete 
+[2021-11-09 04:56:22 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-11-09 04:56:22 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:22 : INFO] - 95 
+[2021-11-09 04:56:25 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113453-updraft-pre-smush-original.jpg 
+[2021-11-09 04:56:25 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:25 : INFO] - 95 
+[2021-11-09 04:56:26 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:26 : INFO] - 95 
+[2021-11-09 04:56:28 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:28 : INFO] - 95 
+[2021-11-09 04:56:29 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:29 : INFO] - 95 
+[2021-11-09 04:56:31 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : November 09, 2021 04:52:39 
+[2021-11-09 04:56:31 : INFO] - 95 
+[2021-11-09 04:56:33 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211104_113453.jpg.The file was compressed from 1.32 MB to 625.39 KB saving 53.59 percent using WP-Optimize 
+[2021-11-09 04:56:33 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-11-09 04:56:33 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-11-09 04:56:33 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:33 : INFO] - 95 
+[2021-11-09 04:56:36 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113812-updraft-pre-smush-original.jpg 
+[2021-11-09 04:56:36 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:36 : INFO] - 95 
+[2021-11-09 04:56:37 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:37 : INFO] - 95 
+[2021-11-09 04:56:39 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:39 : INFO] - 95 
+[2021-11-09 04:56:39 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:39 : INFO] - 95 
+[2021-11-09 04:56:41 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : November 09, 2021 04:52:41 
+[2021-11-09 04:56:41 : INFO] - 95 
+[2021-11-09 04:56:43 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211104_113812.jpg.The file was compressed from 1.63 MB to 783.87 KB saving 52.9 percent using WP-Optimize 
+[2021-11-09 04:56:43 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-11-09 04:56:43 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 04:56:43 
+[2021-11-09 04:56:43 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-11-09 04:56:43 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:43 : INFO] - 95 
+[2021-11-09 04:56:48 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113855-updraft-pre-smush-original.jpg 
+[2021-11-09 04:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:48 : INFO] - 95 
+[2021-11-09 04:56:49 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:49 : INFO] - 95 
+[2021-11-09 04:56:52 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:52 : INFO] - 95 
+[2021-11-09 04:56:52 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:52 : INFO] - 95 
+[2021-11-09 04:56:54 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : November 09, 2021 04:52:43 
+[2021-11-09 04:56:54 : INFO] - 95 
+[2021-11-09 04:56:56 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211104_113855.jpg.The file was compressed from 2.00 MB to 893.05 KB saving 56.36 percent using WP-Optimize 
+[2021-11-09 04:56:56 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-11-09 04:56:56 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-11-09 04:56:56 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:56:56 : INFO] - 95 
+[2021-11-09 04:57:02 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113915-updraft-pre-smush-original.jpg 
+[2021-11-09 04:57:02 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:57:02 : INFO] - 95 
+[2021-11-09 04:57:03 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:57:03 : INFO] - 95 
+[2021-11-09 04:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:57:06 : INFO] - 95 
+[2021-11-09 04:57:07 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:57:07 : INFO] - 95 
+[2021-11-09 04:57:10 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : November 09, 2021 04:52:47 
+[2021-11-09 04:57:10 : INFO] - 95 
+[2021-11-09 04:57:12 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211104_113915.jpg.The file was compressed from 2.40 MB to 1.04 MB saving 56.78 percent using WP-Optimize 
+[2021-11-09 04:57:12 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2021-11-09 04:57:12 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 04:57:12 
+[2021-11-09 04:57:12 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-09 04:57:12 : INFO] - Semaphore (smush) unlocked 
+[2021-11-09 04:57:12 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-11-09 04:57:12 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-09 04:57:12 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-11-09 05:06:34 : INFO] - 
+ 
+[2021-11-09 05:06:34 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 05:06:34 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 05:06:34 : INFO] - WP: 5.8.1 
+[2021-11-09 05:06:34 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 05:06:34 : INFO] - MySQL: 5.5.5 
+[2021-11-09 05:06:34 : INFO] - WPLANG: en_US 
+[2021-11-09 05:06:34 : INFO] - Server: LiteSpeed 
+[2021-11-09 05:06:34 : INFO] - Outbound connections: N 
+[2021-11-09 05:06:34 : INFO] - safe_mode: 0 
+[2021-11-09 05:06:34 : INFO] - max_execution_time: 30 
+[2021-11-09 05:06:34 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 05:06:34 : INFO] - multisite: N 
+[2021-11-09 05:06:34 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 05:06:34 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-09 05:41:59 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:47 : INFO] - 
+ 
+[2021-11-09 05:47:47 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 05:47:47 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 05:47:47 : INFO] - WP: 5.8.1 
+[2021-11-09 05:47:47 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 05:47:47 : INFO] - MySQL: 5.5.5 
+[2021-11-09 05:47:47 : INFO] - WPLANG: en_US 
+[2021-11-09 05:47:47 : INFO] - Server: LiteSpeed 
+[2021-11-09 05:47:47 : INFO] - Outbound connections: N 
+[2021-11-09 05:47:47 : INFO] - safe_mode: 0 
+[2021-11-09 05:47:47 : INFO] - max_execution_time: 30 
+[2021-11-09 05:47:47 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 05:47:47 : INFO] - multisite: N 
+[2021-11-09 05:47:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 05:47:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-09 05:47:47 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 05:47:47 
+[2021-11-09 05:47:47 : INFO] - Semaphore lock (smush) complete 
+[2021-11-09 05:47:47 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-11-09 05:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:47 : INFO] - 95 
+[2021-11-09 05:47:49 : INFO] - Backing up the original image - 2020/02/logo_vistadalagoa-updraft-pre-smush-original.jpg 
+[2021-11-09 05:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:49 : INFO] - 95 
+[2021-11-09 05:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:50 : INFO] - 95 
+[2021-11-09 05:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:53 : INFO] - 95 
+[2021-11-09 05:47:54 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:54 : INFO] - 95 
+[2021-11-09 05:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 1860, autocreated on : November 09, 2021 05:41:59 
+[2021-11-09 05:47:55 : INFO] - 95 
+[2021-11-09 05:47:56 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2020/02/logo_vistadalagoa.jpg.The file was compressed from 97.61 KB to 97.61 KB saving 0 percent using WP-Optimize 
+[2021-11-09 05:47:56 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2021-11-09 05:47:56 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-09 05:47:56 : INFO] - Semaphore (smush) unlocked 
+[2021-11-09 05:47:56 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-09 05:47:56 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-09 05:47:56 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-09 05:57:58 : INFO] - 
+ 
+[2021-11-09 05:57:58 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 05:57:58 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 05:57:58 : INFO] - WP: 5.8.1 
+[2021-11-09 05:57:58 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 05:57:58 : INFO] - MySQL: 5.5.5 
+[2021-11-09 05:57:58 : INFO] - WPLANG: en_US 
+[2021-11-09 05:57:58 : INFO] - Server: LiteSpeed 
+[2021-11-09 05:57:58 : INFO] - Outbound connections: N 
+[2021-11-09 05:57:58 : INFO] - safe_mode: 0 
+[2021-11-09 05:57:58 : INFO] - max_execution_time: 30 
+[2021-11-09 05:57:58 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 05:57:58 : INFO] - multisite: N 
+[2021-11-09 05:57:58 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 05:57:58 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-09 07:03:04 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:25 : INFO] - 
+ 
+[2021-11-09 07:08:25 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 07:08:25 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 07:08:25 : INFO] - WP: 5.8.1 
+[2021-11-09 07:08:25 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 07:08:25 : INFO] - MySQL: 5.5.5 
+[2021-11-09 07:08:25 : INFO] - WPLANG: en_US 
+[2021-11-09 07:08:25 : INFO] - Server: LiteSpeed 
+[2021-11-09 07:08:25 : INFO] - Outbound connections: N 
+[2021-11-09 07:08:25 : INFO] - safe_mode: 0 
+[2021-11-09 07:08:25 : INFO] - max_execution_time: 30 
+[2021-11-09 07:08:25 : INFO] - memory_limit: 256M (used: 49.7M | 52.5M) 
+[2021-11-09 07:08:25 : INFO] - multisite: N 
+[2021-11-09 07:08:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 07:08:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-09 07:08:25 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 07:08:25 
+[2021-11-09 07:08:25 : INFO] - Semaphore lock (smush) complete 
+[2021-11-09 07:08:25 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2021-11-09 07:08:25 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:25 : INFO] - 95 
+[2021-11-09 07:08:33 : INFO] - Backing up the original image - 2021/11/IMG_20211105_213315-scaled-updraft-pre-smush-original.jpg 
+[2021-11-09 07:08:33 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:33 : INFO] - 95 
+[2021-11-09 07:08:35 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:35 : INFO] - 95 
+[2021-11-09 07:08:37 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:37 : INFO] - 95 
+[2021-11-09 07:08:39 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:39 : INFO] - 95 
+[2021-11-09 07:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:41 : INFO] - 95 
+[2021-11-09 07:08:45 : INFO] - Re_Smush_It_Task with attachment ID : 1934, autocreated on : November 09, 2021 07:03:04 
+[2021-11-09 07:08:45 : INFO] - 95 
+[2021-11-09 07:08:48 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211105_213315-scaled.jpg.The file was compressed from 513.94 KB to 494.85 KB saving 3.72 percent using WP-Optimize 
+[2021-11-09 07:08:48 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2021-11-09 07:08:48 : INFO] - Set semaphore last lock (smush) time to 2021-11-09 07:08:48 
+[2021-11-09 07:08:48 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-09 07:08:48 : INFO] - Semaphore (smush) unlocked 
+[2021-11-09 07:08:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-09 07:08:48 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-09 07:08:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-09 07:18:28 : INFO] - 
+ 
+[2021-11-09 07:18:28 : INFO] - Header for logs at time:  Tue, 09 Nov 2021 07:18:28 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-09 07:18:28 : INFO] - WP: 5.8.1 
+[2021-11-09 07:18:28 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-09 07:18:28 : INFO] - MySQL: 5.5.5 
+[2021-11-09 07:18:28 : INFO] - WPLANG: en_US 
+[2021-11-09 07:18:28 : INFO] - Server: LiteSpeed 
+[2021-11-09 07:18:28 : INFO] - Outbound connections: N 
+[2021-11-09 07:18:28 : INFO] - safe_mode: 0 
+[2021-11-09 07:18:28 : INFO] - max_execution_time: 30 
+[2021-11-09 07:18:28 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-09 07:18:28 : INFO] - multisite: N 
+[2021-11-09 07:18:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-09 07:18:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-10 12:58:38 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:48 : INFO] - 
+ 
+[2021-11-10 13:03:48 : INFO] - Header for logs at time:  Wed, 10 Nov 2021 13:03:48 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-10 13:03:48 : INFO] - WP: 5.8.1 
+[2021-11-10 13:03:48 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-10 13:03:48 : INFO] - MySQL: 5.5.5 
+[2021-11-10 13:03:48 : INFO] - WPLANG: en_US 
+[2021-11-10 13:03:48 : INFO] - Server: LiteSpeed 
+[2021-11-10 13:03:48 : INFO] - Outbound connections: N 
+[2021-11-10 13:03:48 : INFO] - safe_mode: 0 
+[2021-11-10 13:03:48 : INFO] - max_execution_time: 30 
+[2021-11-10 13:03:48 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-10 13:03:48 : INFO] - multisite: N 
+[2021-11-10 13:03:48 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-10 13:03:48 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-10 13:03:48 : INFO] - Set semaphore last lock (smush) time to 2021-11-10 13:03:48 
+[2021-11-10 13:03:48 : INFO] - Semaphore lock (smush) complete 
+[2021-11-10 13:03:48 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2021-11-10 13:03:48 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:48 : INFO] - 95 
+[2021-11-10 13:03:51 : INFO] - Backing up the original image - 2021/11/IMG_20211109_114738-scaled-updraft-pre-smush-original.jpg 
+[2021-11-10 13:03:51 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:51 : INFO] - 95 
+[2021-11-10 13:03:55 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:55 : INFO] - 95 
+[2021-11-10 13:03:56 : INFO] - Task with ID 8 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-10 13:03:56 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:56 : INFO] - 95 
+[2021-11-10 13:03:58 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:58 : INFO] - 95 
+[2021-11-10 13:03:58 : INFO] - Task with ID 8 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-10 13:03:58 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:58 : INFO] - 95 
+[2021-11-10 13:03:59 : INFO] - Task with ID 8 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-10 13:03:59 : INFO] - Re_Smush_It_Task with attachment ID : 2064, autocreated on : November 10, 2021 12:58:38 
+[2021-11-10 13:03:59 : INFO] - 95 
+[2021-11-10 13:04:06 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211109_114738-scaled.jpg.The file was compressed from 871.38 KB to 840.08 KB saving 3.59 percent using WP-Optimize 
+[2021-11-10 13:04:06 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2021-11-10 13:04:06 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-10 13:04:06 : INFO] - Semaphore (smush) unlocked 
+[2021-11-10 13:04:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-10 13:04:06 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-10 13:04:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-10 13:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:13:50 : INFO] - 
+ 
+[2021-11-10 13:13:50 : INFO] - Header for logs at time:  Wed, 10 Nov 2021 13:13:50 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-10 13:13:50 : INFO] - WP: 5.8.1 
+[2021-11-10 13:13:50 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-10 13:13:50 : INFO] - MySQL: 5.5.5 
+[2021-11-10 13:13:50 : INFO] - WPLANG: en_US 
+[2021-11-10 13:13:50 : INFO] - Server: LiteSpeed 
+[2021-11-10 13:13:50 : INFO] - Outbound connections: N 
+[2021-11-10 13:13:50 : INFO] - safe_mode: 0 
+[2021-11-10 13:13:50 : INFO] - max_execution_time: 30 
+[2021-11-10 13:13:50 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-10 13:13:50 : INFO] - multisite: N 
+[2021-11-10 13:13:50 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-10 13:13:50 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-10 13:13:50 : INFO] - Set semaphore last lock (smush) time to 2021-11-10 13:13:50 
+[2021-11-10 13:13:50 : INFO] - Semaphore lock (smush) complete 
+[2021-11-10 13:13:50 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2021-11-10 13:13:50 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:13:50 : INFO] - 95 
+[2021-11-10 13:13:54 : INFO] - Backing up the original image - 2021/11/IMG_20211109_114611-scaled-updraft-pre-smush-original.jpg 
+[2021-11-10 13:13:54 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:13:54 : INFO] - 95 
+[2021-11-10 13:13:54 : INFO] - Task with ID 9 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-10 13:13:54 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:13:54 : INFO] - 95 
+[2021-11-10 13:13:59 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:13:59 : INFO] - 95 
+[2021-11-10 13:14:03 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:14:03 : INFO] - 95 
+[2021-11-10 13:14:04 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:14:04 : INFO] - 95 
+[2021-11-10 13:14:05 : INFO] - Task with ID 9 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-10 13:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 2075, autocreated on : November 10, 2021 01:09:28 
+[2021-11-10 13:14:05 : INFO] - 95 
+[2021-11-10 13:14:08 : INFO] - Successfully optimized the image - /home1/thapasan/public_html/wordpress/wp-content/uploads/2021/11/IMG_20211109_114611-scaled.jpg.The file was compressed from 1.25 MB to 1.19 MB saving 4.83 percent using WP-Optimize 
+[2021-11-10 13:14:08 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2021-11-10 13:14:08 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-10 13:14:08 : INFO] - Semaphore (smush) unlocked 
+[2021-11-10 13:14:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-10 13:14:08 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-10 13:14:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-10 13:24:03 : INFO] - 
+ 
+[2021-11-10 13:24:03 : INFO] - Header for logs at time:  Wed, 10 Nov 2021 13:24:03 +0000 on https://thapasangam.com.np/wordpress 
+[2021-11-10 13:24:03 : INFO] - WP: 5.8.1 
+[2021-11-10 13:24:03 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-10 13:24:03 : INFO] - MySQL: 5.5.5 
+[2021-11-10 13:24:03 : INFO] - WPLANG: en_US 
+[2021-11-10 13:24:03 : INFO] - Server: LiteSpeed 
+[2021-11-10 13:24:03 : INFO] - Outbound connections: N 
+[2021-11-10 13:24:03 : INFO] - safe_mode: 0 
+[2021-11-10 13:24:03 : INFO] - max_execution_time: 30 
+[2021-11-10 13:24:03 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-10 13:24:03 : INFO] - multisite: N 
+[2021-11-10 13:24:03 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-10 13:24:03 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

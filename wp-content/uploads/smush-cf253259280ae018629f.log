@@ -1,0 +1,1922 @@
+[2021-11-11 15:03:06 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:03:15 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:03:26 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:03:36 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:03:47 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:04:00 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:04:10 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:04:20 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:08:09 : INFO] - 
+ 
+[2021-11-11 15:08:09 : INFO] - Header for logs at time:  Thu, 11 Nov 2021 15:08:09 +0000 on https://vistadalagoa.com 
+[2021-11-11 15:08:09 : INFO] - WP: 5.8.2 
+[2021-11-11 15:08:09 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-11 15:08:09 : INFO] - MySQL: 5.5.5 
+[2021-11-11 15:08:09 : INFO] - WPLANG: en_US 
+[2021-11-11 15:08:09 : INFO] - Server: LiteSpeed 
+[2021-11-11 15:08:09 : INFO] - Outbound connections: N 
+[2021-11-11 15:08:09 : INFO] - safe_mode: 0 
+[2021-11-11 15:08:09 : INFO] - max_execution_time: 30 
+[2021-11-11 15:08:09 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-11 15:08:09 : INFO] - multisite: N 
+[2021-11-11 15:08:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-11 15:08:09 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2021-11-11 15:08:09 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:08:09 
+[2021-11-11 15:08:09 : INFO] - Semaphore lock (smush) complete 
+[2021-11-11 15:08:09 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2021-11-11 15:08:09 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:09 : INFO] - 95 
+[2021-11-11 15:08:12 : INFO] - Task with ID 10 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:12 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:12 : INFO] - 95 
+[2021-11-11 15:08:12 : INFO] - Task with ID 10 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:12 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:12 : INFO] - 95 
+[2021-11-11 15:08:17 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:17 : INFO] - 95 
+[2021-11-11 15:08:19 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:19 : INFO] - 95 
+[2021-11-11 15:08:20 : INFO] - Task with ID 10 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:20 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:20 : INFO] - 95 
+[2021-11-11 15:08:23 : INFO] - Re_Smush_It_Task with attachment ID : 2219, autocreated on : November 11, 2021 03:03:06 
+[2021-11-11 15:08:23 : INFO] - 95 
+[2021-11-11 15:08:29 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_114847-scaled.jpg.The file was compressed from 1.52 MB to 1.52 MB saving 0 percent using WP-Optimize 
+[2021-11-11 15:08:29 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2021-11-11 15:08:29 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:08:29 
+[2021-11-11 15:08:29 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2021-11-11 15:08:29 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:29 : INFO] - 95 
+[2021-11-11 15:08:32 : INFO] - Backing up the original image - 2021/11/IMG_20211109_114957-scaled-updraft-pre-smush-original.jpg 
+[2021-11-11 15:08:32 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:32 : INFO] - 95 
+[2021-11-11 15:08:36 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:36 : INFO] - 95 
+[2021-11-11 15:08:37 : INFO] - Task with ID 11 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:37 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:37 : INFO] - 95 
+[2021-11-11 15:08:38 : INFO] - Task with ID 11 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:38 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:38 : INFO] - 95 
+[2021-11-11 15:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:41 : INFO] - 95 
+[2021-11-11 15:08:41 : INFO] - Task with ID 11 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 2220, autocreated on : November 11, 2021 03:03:15 
+[2021-11-11 15:08:41 : INFO] - 95 
+[2021-11-11 15:08:43 : INFO] - Task with ID 11 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:43 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_114957-scaled.jpg.The file was compressed from 700.14 KB to 663.00 KB saving 5.3 percent using WP-Optimize 
+[2021-11-11 15:08:43 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2021-11-11 15:08:43 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2021-11-11 15:08:43 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:08:43 : INFO] - 95 
+[2021-11-11 15:08:47 : INFO] - Backing up the original image - 2021/11/IMG_20211109_115051-scaled-updraft-pre-smush-original.jpg 
+[2021-11-11 15:08:47 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:08:47 : INFO] - 95 
+[2021-11-11 15:08:48 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:08:48 : INFO] - 95 
+[2021-11-11 15:08:53 : INFO] - Task with ID 12 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:08:53 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:08:53 : INFO] - 95 
+[2021-11-11 15:09:01 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:09:01 : INFO] - 95 
+[2021-11-11 15:09:02 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:09:02 : INFO] - 95 
+[2021-11-11 15:09:03 : INFO] - Task with ID 12 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:03 : INFO] - Re_Smush_It_Task with attachment ID : 2221, autocreated on : November 11, 2021 03:03:26 
+[2021-11-11 15:09:03 : INFO] - 95 
+[2021-11-11 15:09:08 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115051-scaled.jpg.The file was compressed from 1.01 MB to 983.90 KB saving 5.21 percent using WP-Optimize 
+[2021-11-11 15:09:08 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2021-11-11 15:09:08 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:09:08 
+[2021-11-11 15:09:08 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2021-11-11 15:09:08 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:08 : INFO] - 95 
+[2021-11-11 15:09:10 : INFO] - Task with ID 13 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:10 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:10 : INFO] - 95 
+[2021-11-11 15:09:11 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:11 : INFO] - 95 
+[2021-11-11 15:09:12 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:12 : INFO] - 95 
+[2021-11-11 15:09:16 : INFO] - Task with ID 13 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:16 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:16 : INFO] - 95 
+[2021-11-11 15:09:21 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:21 : INFO] - 95 
+[2021-11-11 15:09:23 : INFO] - Re_Smush_It_Task with attachment ID : 2222, autocreated on : November 11, 2021 03:03:36 
+[2021-11-11 15:09:23 : INFO] - 95 
+[2021-11-11 15:09:24 : INFO] - Task with ID 13 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:24 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115142-scaled.jpg.The file was compressed from 1.26 MB to 1.26 MB saving 0 percent using WP-Optimize 
+[2021-11-11 15:09:24 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2021-11-11 15:09:24 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2021-11-11 15:09:24 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:24 : INFO] - 95 
+[2021-11-11 15:09:25 : INFO] - Task with ID 14 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:25 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:25 : INFO] - 95 
+[2021-11-11 15:09:26 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:26 : INFO] - 95 
+[2021-11-11 15:09:27 : INFO] - Task with ID 14 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:27 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:27 : INFO] - 95 
+[2021-11-11 15:09:28 : INFO] - Task with ID 14 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:28 : INFO] - 95 
+[2021-11-11 15:09:28 : INFO] - Task with ID 14 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:28 : INFO] - 95 
+[2021-11-11 15:09:31 : INFO] - Re_Smush_It_Task with attachment ID : 2223, autocreated on : November 11, 2021 03:03:47 
+[2021-11-11 15:09:31 : INFO] - 95 
+[2021-11-11 15:09:33 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115246-scaled.jpg.The file was compressed from 942.49 KB to 942.49 KB saving 0 percent using WP-Optimize 
+[2021-11-11 15:09:33 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2021-11-11 15:09:33 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:09:33 
+[2021-11-11 15:09:33 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2021-11-11 15:09:33 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:33 : INFO] - 95 
+[2021-11-11 15:09:36 : INFO] - Backing up the original image - 2021/11/IMG_20211109_115739-scaled-updraft-pre-smush-original.jpg 
+[2021-11-11 15:09:36 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:36 : INFO] - 95 
+[2021-11-11 15:09:43 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:43 : INFO] - 95 
+[2021-11-11 15:09:45 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:45 : INFO] - 95 
+[2021-11-11 15:09:49 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:49 : INFO] - 95 
+[2021-11-11 15:09:49 : INFO] - Task with ID 15 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:49 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:49 : INFO] - 95 
+[2021-11-11 15:09:51 : INFO] - Re_Smush_It_Task with attachment ID : 2224, autocreated on : November 11, 2021 03:04:00 
+[2021-11-11 15:09:51 : INFO] - 95 
+[2021-11-11 15:09:54 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115739-scaled.jpg.The file was compressed from 944.34 KB to 907.38 KB saving 3.91 percent using WP-Optimize 
+[2021-11-11 15:09:54 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2021-11-11 15:09:54 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:09:54 
+[2021-11-11 15:09:54 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2021-11-11 15:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:09:54 : INFO] - 95 
+[2021-11-11 15:09:55 : INFO] - Task with ID 16 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:09:55 : INFO] - 95 
+[2021-11-11 15:09:55 : INFO] - Task with ID 16 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:09:55 : INFO] - 95 
+[2021-11-11 15:09:57 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:09:57 : INFO] - 95 
+[2021-11-11 15:09:59 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:09:59 : INFO] - 95 
+[2021-11-11 15:10:00 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:10:00 : INFO] - 95 
+[2021-11-11 15:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 2225, autocreated on : November 11, 2021 03:04:10 
+[2021-11-11 15:10:05 : INFO] - 95 
+[2021-11-11 15:10:06 : INFO] - Task with ID 16 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:06 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115633-scaled.jpg.The file was compressed from 585.21 KB to 585.21 KB saving 0 percent using WP-Optimize 
+[2021-11-11 15:10:06 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2021-11-11 15:10:06 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2021-11-11 15:10:06 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:06 : INFO] - 95 
+[2021-11-11 15:10:08 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:08 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:08 : INFO] - 95 
+[2021-11-11 15:10:09 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:09 : INFO] - 95 
+[2021-11-11 15:10:10 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:10 : INFO] - 95 
+[2021-11-11 15:10:10 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:10 : INFO] - 95 
+[2021-11-11 15:10:14 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:14 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:14 : INFO] - 95 
+[2021-11-11 15:10:15 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2021-11-11 15:10:15 : INFO] - Re_Smush_It_Task with attachment ID : 2226, autocreated on : November 11, 2021 03:04:20 
+[2021-11-11 15:10:15 : INFO] - 95 
+[2021-11-11 15:10:18 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211109_115410-scaled.jpg.The file was compressed from 1.16 MB to 1.16 MB saving 0 percent using WP-Optimize 
+[2021-11-11 15:10:18 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2021-11-11 15:10:18 : INFO] - Set semaphore last lock (smush) time to 2021-11-11 15:10:18 
+[2021-11-11 15:10:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-11 15:10:18 : INFO] - Semaphore (smush) unlocked 
+[2021-11-11 15:10:18 : INFO] - Successfully processed the queue (smush). 8 tasks were processed out of 8. 
+[2021-11-11 15:10:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-11 15:10:18 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2021-11-11 15:18:28 : INFO] - 
+ 
+[2021-11-11 15:18:28 : INFO] - Header for logs at time:  Thu, 11 Nov 2021 15:18:28 +0000 on https://vistadalagoa.com 
+[2021-11-11 15:18:28 : INFO] - WP: 5.8.2 
+[2021-11-11 15:18:28 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-11 15:18:28 : INFO] - MySQL: 5.5.5 
+[2021-11-11 15:18:28 : INFO] - WPLANG: en_US 
+[2021-11-11 15:18:28 : INFO] - Server: LiteSpeed 
+[2021-11-11 15:18:28 : INFO] - Outbound connections: N 
+[2021-11-11 15:18:28 : INFO] - safe_mode: 0 
+[2021-11-11 15:18:28 : INFO] - max_execution_time: 30 
+[2021-11-11 15:18:28 : INFO] - memory_limit: 128M (used: 49.7M | 50.5M) 
+[2021-11-11 15:18:28 : INFO] - multisite: N 
+[2021-11-11 15:18:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-11 15:18:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-13 16:14:28 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:14:31 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:14:33 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:14:35 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:14:37 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:14:39 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:14:41 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:14:42 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:19:57 : INFO] - 
+ 
+[2021-11-13 16:19:57 : INFO] - Header for logs at time:  Sat, 13 Nov 2021 16:19:57 +0000 on https://vistadalagoa.com 
+[2021-11-13 16:19:57 : INFO] - WP: 5.8.2 
+[2021-11-13 16:19:57 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-13 16:19:57 : INFO] - MySQL: 5.5.5 
+[2021-11-13 16:19:57 : INFO] - WPLANG: en_US 
+[2021-11-13 16:19:57 : INFO] - Server: LiteSpeed 
+[2021-11-13 16:19:57 : INFO] - Outbound connections: N 
+[2021-11-13 16:19:57 : INFO] - safe_mode: 0 
+[2021-11-13 16:19:57 : INFO] - max_execution_time: 30 
+[2021-11-13 16:19:57 : INFO] - memory_limit: 256M (used: 50M | 52.5M) 
+[2021-11-13 16:19:57 : INFO] - multisite: N 
+[2021-11-13 16:19:57 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-13 16:19:57 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2021-11-13 16:19:57 : INFO] - Set semaphore last lock (smush) time to 2021-11-13 16:19:57 
+[2021-11-13 16:19:57 : INFO] - Semaphore lock (smush) complete 
+[2021-11-13 16:19:57 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2021-11-13 16:19:57 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:19:57 : INFO] - 95 
+[2021-11-13 16:20:00 : INFO] - Backing up the original image - 2021/11/20211112_183339-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:00 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:20:00 : INFO] - 95 
+[2021-11-13 16:20:01 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:20:01 : INFO] - 95 
+[2021-11-13 16:20:02 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:20:02 : INFO] - 95 
+[2021-11-13 16:20:02 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:20:02 : INFO] - 95 
+[2021-11-13 16:20:04 : INFO] - Re_Smush_It_Task with attachment ID : 2321, autocreated on : November 13, 2021 04:14:28 
+[2021-11-13 16:20:04 : INFO] - 95 
+[2021-11-13 16:20:05 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_183339.jpg.The file was compressed from 649.77 KB to 596.44 KB saving 8.21 percent using WP-Optimize 
+[2021-11-13 16:20:05 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2021-11-13 16:20:05 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2021-11-13 16:20:05 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:05 : INFO] - 95 
+[2021-11-13 16:20:08 : INFO] - Backing up the original image - 2021/11/20211112_183335-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:08 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:08 : INFO] - 95 
+[2021-11-13 16:20:08 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:08 : INFO] - 95 
+[2021-11-13 16:20:10 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:10 : INFO] - 95 
+[2021-11-13 16:20:10 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:10 : INFO] - 95 
+[2021-11-13 16:20:11 : INFO] - Re_Smush_It_Task with attachment ID : 2322, autocreated on : November 13, 2021 04:14:31 
+[2021-11-13 16:20:11 : INFO] - 95 
+[2021-11-13 16:20:13 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_183335.jpg.The file was compressed from 663.26 KB to 607.90 KB saving 8.35 percent using WP-Optimize 
+[2021-11-13 16:20:13 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2021-11-13 16:20:13 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2021-11-13 16:20:13 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:13 : INFO] - 95 
+[2021-11-13 16:20:15 : INFO] - Backing up the original image - 2021/11/20211112_182035-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:15 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:15 : INFO] - 95 
+[2021-11-13 16:20:16 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:16 : INFO] - 95 
+[2021-11-13 16:20:17 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:17 : INFO] - 95 
+[2021-11-13 16:20:18 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:18 : INFO] - 95 
+[2021-11-13 16:20:19 : INFO] - Re_Smush_It_Task with attachment ID : 2323, autocreated on : November 13, 2021 04:14:33 
+[2021-11-13 16:20:19 : INFO] - 95 
+[2021-11-13 16:20:20 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_182035.jpg.The file was compressed from 679.85 KB to 621.09 KB saving 8.64 percent using WP-Optimize 
+[2021-11-13 16:20:20 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2021-11-13 16:20:20 : INFO] - Set semaphore last lock (smush) time to 2021-11-13 16:20:20 
+[2021-11-13 16:20:20 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2021-11-13 16:20:20 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:20 : INFO] - 95 
+[2021-11-13 16:20:23 : INFO] - Backing up the original image - 2021/11/20211112_184328-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:23 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:23 : INFO] - 95 
+[2021-11-13 16:20:23 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:23 : INFO] - 95 
+[2021-11-13 16:20:25 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:25 : INFO] - 95 
+[2021-11-13 16:20:25 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:25 : INFO] - 95 
+[2021-11-13 16:20:26 : INFO] - Re_Smush_It_Task with attachment ID : 2324, autocreated on : November 13, 2021 04:14:35 
+[2021-11-13 16:20:26 : INFO] - 95 
+[2021-11-13 16:20:28 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_184328.jpg.The file was compressed from 613.97 KB to 567.92 KB saving 7.5 percent using WP-Optimize 
+[2021-11-13 16:20:28 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2021-11-13 16:20:28 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2021-11-13 16:20:28 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:28 : INFO] - 95 
+[2021-11-13 16:20:30 : INFO] - Backing up the original image - 2021/11/20211112_184340-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:30 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:30 : INFO] - 95 
+[2021-11-13 16:20:30 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:30 : INFO] - 95 
+[2021-11-13 16:20:32 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:32 : INFO] - 95 
+[2021-11-13 16:20:32 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:32 : INFO] - 95 
+[2021-11-13 16:20:33 : INFO] - Re_Smush_It_Task with attachment ID : 2325, autocreated on : November 13, 2021 04:14:37 
+[2021-11-13 16:20:33 : INFO] - 95 
+[2021-11-13 16:20:35 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_184340.jpg.The file was compressed from 580.24 KB to 539.21 KB saving 7.07 percent using WP-Optimize 
+[2021-11-13 16:20:35 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2021-11-13 16:20:35 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2021-11-13 16:20:35 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:35 : INFO] - 95 
+[2021-11-13 16:20:37 : INFO] - Backing up the original image - 2021/11/20211112_183513-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:37 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:37 : INFO] - 95 
+[2021-11-13 16:20:38 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:38 : INFO] - 95 
+[2021-11-13 16:20:39 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:39 : INFO] - 95 
+[2021-11-13 16:20:39 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:39 : INFO] - 95 
+[2021-11-13 16:20:41 : INFO] - Re_Smush_It_Task with attachment ID : 2326, autocreated on : November 13, 2021 04:14:39 
+[2021-11-13 16:20:41 : INFO] - 95 
+[2021-11-13 16:20:42 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_183513.jpg.The file was compressed from 636.56 KB to 583.80 KB saving 8.29 percent using WP-Optimize 
+[2021-11-13 16:20:42 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2021-11-13 16:20:42 : INFO] - Set semaphore last lock (smush) time to 2021-11-13 16:20:42 
+[2021-11-13 16:20:42 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2021-11-13 16:20:42 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:42 : INFO] - 95 
+[2021-11-13 16:20:44 : INFO] - Backing up the original image - 2021/11/20211112_183323-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:44 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:44 : INFO] - 95 
+[2021-11-13 16:20:45 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:45 : INFO] - 95 
+[2021-11-13 16:20:46 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:46 : INFO] - 95 
+[2021-11-13 16:20:47 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:47 : INFO] - 95 
+[2021-11-13 16:20:48 : INFO] - Re_Smush_It_Task with attachment ID : 2327, autocreated on : November 13, 2021 04:14:41 
+[2021-11-13 16:20:48 : INFO] - 95 
+[2021-11-13 16:20:50 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_183323.jpg.The file was compressed from 670.61 KB to 616.42 KB saving 8.08 percent using WP-Optimize 
+[2021-11-13 16:20:50 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2021-11-13 16:20:50 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2021-11-13 16:20:50 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:50 : INFO] - 95 
+[2021-11-13 16:20:52 : INFO] - Backing up the original image - 2021/11/20211112_182046-updraft-pre-smush-original.jpg 
+[2021-11-13 16:20:52 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:52 : INFO] - 95 
+[2021-11-13 16:20:53 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:53 : INFO] - 95 
+[2021-11-13 16:20:54 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:54 : INFO] - 95 
+[2021-11-13 16:20:54 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:54 : INFO] - 95 
+[2021-11-13 16:20:55 : INFO] - Re_Smush_It_Task with attachment ID : 2328, autocreated on : November 13, 2021 04:14:42 
+[2021-11-13 16:20:55 : INFO] - 95 
+[2021-11-13 16:20:58 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211112_182046.jpg.The file was compressed from 572.27 KB to 531.29 KB saving 7.16 percent using WP-Optimize 
+[2021-11-13 16:20:58 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2021-11-13 16:20:58 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-13 16:20:58 : INFO] - Semaphore (smush) unlocked 
+[2021-11-13 16:20:58 : INFO] - Successfully processed the queue (smush). 8 tasks were processed out of 8. 
+[2021-11-13 16:20:58 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-13 16:20:58 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2021-11-13 16:35:23 : INFO] - 
+ 
+[2021-11-13 16:35:23 : INFO] - Header for logs at time:  Sat, 13 Nov 2021 16:35:23 +0000 on http://vistadalagoa.com 
+[2021-11-13 16:35:23 : INFO] - WP: 5.8.2 
+[2021-11-13 16:35:23 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-13 16:35:23 : INFO] - MySQL: 5.5.5 
+[2021-11-13 16:35:23 : INFO] - WPLANG: en_US 
+[2021-11-13 16:35:23 : INFO] - Server: LiteSpeed 
+[2021-11-13 16:35:23 : INFO] - Outbound connections: N 
+[2021-11-13 16:35:23 : INFO] - safe_mode: 0 
+[2021-11-13 16:35:23 : INFO] - max_execution_time: 30 
+[2021-11-13 16:35:23 : INFO] - memory_limit: 256M (used: 50M | 52.5M) 
+[2021-11-13 16:35:23 : INFO] - multisite: N 
+[2021-11-13 16:35:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-13 16:35:23 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-25 06:44:27 : INFO] - Re_Smush_It_Task with attachment ID : 2347, autocreated on : November 25, 2021 06:44:27 
+[2021-11-25 06:49:36 : INFO] - 
+ 
+[2021-11-25 06:49:36 : INFO] - Header for logs at time:  Thu, 25 Nov 2021 06:49:36 +0000 on https://vistadalagoa.com 
+[2021-11-25 06:49:36 : INFO] - WP: 5.8.2 
+[2021-11-25 06:49:36 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-25 06:49:36 : INFO] - MySQL: 5.5.5 
+[2021-11-25 06:49:36 : INFO] - WPLANG: en_US 
+[2021-11-25 06:49:36 : INFO] - Server: LiteSpeed 
+[2021-11-25 06:49:36 : INFO] - Outbound connections: N 
+[2021-11-25 06:49:36 : INFO] - safe_mode: 0 
+[2021-11-25 06:49:36 : INFO] - max_execution_time: 30 
+[2021-11-25 06:49:36 : INFO] - memory_limit: 256M (used: 50M | 52.5M) 
+[2021-11-25 06:49:36 : INFO] - multisite: N 
+[2021-11-25 06:49:36 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-25 06:49:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-25 06:49:36 : INFO] - Set semaphore last lock (smush) time to 2021-11-25 06:49:36 
+[2021-11-25 06:49:36 : INFO] - Semaphore lock (smush) complete 
+[2021-11-25 06:49:36 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-11-25 06:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 2347, autocreated on : November 25, 2021 06:44:27 
+[2021-11-25 06:49:36 : INFO] - 95 
+[2021-11-25 06:49:38 : INFO] - Backing up the original image - 2021/11/hotel-meal-updraft-pre-smush-original.jpg 
+[2021-11-25 06:49:38 : INFO] - Re_Smush_It_Task with attachment ID : 2347, autocreated on : November 25, 2021 06:44:27 
+[2021-11-25 06:49:38 : INFO] - 95 
+[2021-11-25 06:49:39 : INFO] - Re_Smush_It_Task with attachment ID : 2347, autocreated on : November 25, 2021 06:44:27 
+[2021-11-25 06:49:39 : INFO] - 95 
+[2021-11-25 06:49:39 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/hotel-meal.jpg.The file was compressed from 361.90 KB to 109.32 KB saving 69.79 percent using WP-Optimize 
+[2021-11-25 06:49:39 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-11-25 06:49:39 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-25 06:49:39 : INFO] - Semaphore (smush) unlocked 
+[2021-11-25 06:49:39 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-25 06:49:39 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-25 06:49:39 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-25 07:02:06 : INFO] - 
+ 
+[2021-11-25 07:02:06 : INFO] - Header for logs at time:  Thu, 25 Nov 2021 07:02:06 +0000 on https://vistadalagoa.com 
+[2021-11-25 07:02:06 : INFO] - WP: 5.8.2 
+[2021-11-25 07:02:06 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-25 07:02:06 : INFO] - MySQL: 5.5.5 
+[2021-11-25 07:02:06 : INFO] - WPLANG: en_US 
+[2021-11-25 07:02:06 : INFO] - Server: LiteSpeed 
+[2021-11-25 07:02:06 : INFO] - Outbound connections: N 
+[2021-11-25 07:02:06 : INFO] - safe_mode: 0 
+[2021-11-25 07:02:06 : INFO] - max_execution_time: 30 
+[2021-11-25 07:02:06 : INFO] - memory_limit: 256M (used: 50M | 52.5M) 
+[2021-11-25 07:02:06 : INFO] - multisite: N 
+[2021-11-25 07:02:06 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-25 07:02:06 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-26 08:05:43 : INFO] - Re_Smush_It_Task with attachment ID : 2530, autocreated on : November 26, 2021 08:05:43 
+[2021-11-26 08:06:47 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:32 : INFO] - 
+ 
+[2021-11-26 08:14:32 : INFO] - Header for logs at time:  Fri, 26 Nov 2021 08:14:32 +0000 on https://vistadalagoa.com 
+[2021-11-26 08:14:32 : INFO] - WP: 5.8.2 
+[2021-11-26 08:14:32 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-26 08:14:32 : INFO] - MySQL: 5.5.5 
+[2021-11-26 08:14:32 : INFO] - WPLANG: en_US 
+[2021-11-26 08:14:32 : INFO] - Server: LiteSpeed 
+[2021-11-26 08:14:32 : INFO] - Outbound connections: N 
+[2021-11-26 08:14:32 : INFO] - safe_mode: 0 
+[2021-11-26 08:14:32 : INFO] - max_execution_time: 30 
+[2021-11-26 08:14:32 : INFO] - memory_limit: 256M (used: 50.1M | 52.5M) 
+[2021-11-26 08:14:32 : INFO] - multisite: N 
+[2021-11-26 08:14:32 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-26 08:14:32 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-11-26 08:14:32 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 08:14:32 
+[2021-11-26 08:14:32 : INFO] - Semaphore lock (smush) complete 
+[2021-11-26 08:14:32 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-11-26 08:14:32 : INFO] - Re_Smush_It_Task with attachment ID : 2530, autocreated on : November 26, 2021 08:05:43 
+[2021-11-26 08:14:32 : INFO] - 95 
+[2021-11-26 08:14:33 : INFO] - Backing up the original image - 2021/11/small_vistadalagoa_logo-updraft-pre-smush-original.png 
+[2021-11-26 08:14:33 : INFO] - Re_Smush_It_Task with attachment ID : 2530, autocreated on : November 26, 2021 08:05:43 
+[2021-11-26 08:14:33 : INFO] - 95 
+[2021-11-26 08:14:34 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/small_vistadalagoa_logo.png.The file was compressed from 36.92 KB to 10.62 KB saving 71.23 percent using WP-Optimize 
+[2021-11-26 08:14:34 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-11-26 08:14:34 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-11-26 08:14:34 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:34 : INFO] - 95 
+[2021-11-26 08:14:37 : INFO] - Backing up the original image - 2021/11/bckfround_logo_vistadalagoa-updraft-pre-smush-original.png 
+[2021-11-26 08:14:37 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:37 : INFO] - 95 
+[2021-11-26 08:14:38 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:38 : INFO] - 95 
+[2021-11-26 08:14:40 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:40 : INFO] - 95 
+[2021-11-26 08:14:41 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:41 : INFO] - 95 
+[2021-11-26 08:14:43 : INFO] - Re_Smush_It_Task with attachment ID : 2531, autocreated on : November 26, 2021 08:06:47 
+[2021-11-26 08:14:43 : INFO] - 95 
+[2021-11-26 08:14:45 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/bckfround_logo_vistadalagoa.png.The file was compressed from 619.70 KB to 239.11 KB saving 61.42 percent using WP-Optimize 
+[2021-11-26 08:14:45 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-11-26 08:14:45 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-26 08:14:45 : INFO] - Semaphore (smush) unlocked 
+[2021-11-26 08:14:45 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-11-26 08:14:45 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-26 08:14:45 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-11-26 08:17:33 : INFO] - Re_Smush_It_Task with attachment ID : 2533, autocreated on : November 26, 2021 08:17:33 
+[2021-11-26 09:06:23 : INFO] - 
+ 
+[2021-11-26 09:06:23 : INFO] - Header for logs at time:  Fri, 26 Nov 2021 09:06:23 +0000 on https://vistadalagoa.com 
+[2021-11-26 09:06:23 : INFO] - WP: 5.8.2 
+[2021-11-26 09:06:23 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-26 09:06:23 : INFO] - MySQL: 5.5.5 
+[2021-11-26 09:06:23 : INFO] - WPLANG: en_US 
+[2021-11-26 09:06:23 : INFO] - Server: LiteSpeed 
+[2021-11-26 09:06:23 : INFO] - Outbound connections: N 
+[2021-11-26 09:06:23 : INFO] - safe_mode: 0 
+[2021-11-26 09:06:23 : INFO] - max_execution_time: 30 
+[2021-11-26 09:06:23 : INFO] - memory_limit: 256M (used: 50.1M | 52.5M) 
+[2021-11-26 09:06:23 : INFO] - multisite: N 
+[2021-11-26 09:06:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-26 09:06:23 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-26 09:06:23 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 09:06:23 
+[2021-11-26 09:06:23 : INFO] - Semaphore lock (smush) complete 
+[2021-11-26 09:06:23 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-11-26 09:06:23 : INFO] - Re_Smush_It_Task with attachment ID : 2533, autocreated on : November 26, 2021 08:17:33 
+[2021-11-26 09:06:23 : INFO] - 95 
+[2021-11-26 09:06:23 : INFO] - Backing up the original image - 2021/11/logo_vistadalagoa-updraft-pre-smush-original.png 
+[2021-11-26 09:06:23 : INFO] - Re_Smush_It_Task with attachment ID : 2533, autocreated on : November 26, 2021 08:17:33 
+[2021-11-26 09:06:23 : INFO] - 95 
+[2021-11-26 09:06:25 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/logo_vistadalagoa.png.The file was compressed from 28.48 KB to 10.22 KB saving 64.1 percent using WP-Optimize 
+[2021-11-26 09:06:25 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-11-26 09:06:25 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-26 09:06:25 : INFO] - Semaphore (smush) unlocked 
+[2021-11-26 09:06:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-26 09:06:25 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-26 09:06:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-26 09:18:04 : INFO] - 
+ 
+[2021-11-26 09:18:04 : INFO] - Header for logs at time:  Fri, 26 Nov 2021 09:18:04 +0000 on https://vistadalagoa.com 
+[2021-11-26 09:18:04 : INFO] - WP: 5.8.2 
+[2021-11-26 09:18:04 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-26 09:18:04 : INFO] - MySQL: 5.5.5 
+[2021-11-26 09:18:04 : INFO] - WPLANG: en_US 
+[2021-11-26 09:18:04 : INFO] - Server: LiteSpeed 
+[2021-11-26 09:18:04 : INFO] - Outbound connections: N 
+[2021-11-26 09:18:04 : INFO] - safe_mode: 0 
+[2021-11-26 09:18:04 : INFO] - max_execution_time: 30 
+[2021-11-26 09:18:04 : INFO] - memory_limit: 256M (used: 50.1M | 52.5M) 
+[2021-11-26 09:18:04 : INFO] - multisite: N 
+[2021-11-26 09:18:04 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-26 09:18:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-26 15:00:08 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:00:11 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:00:18 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:00:21 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:00:27 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:00:30 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:00:36 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:00:40 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:00:43 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:00:47 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:00:49 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:00:51 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:00:53 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:00:55 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:05:21 : INFO] - 
+ 
+[2021-11-26 15:05:21 : INFO] - Header for logs at time:  Fri, 26 Nov 2021 15:05:21 +0000 on https://vistadalagoa.com 
+[2021-11-26 15:05:21 : INFO] - WP: 5.8.2 
+[2021-11-26 15:05:21 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-26 15:05:21 : INFO] - MySQL: 5.5.5 
+[2021-11-26 15:05:21 : INFO] - WPLANG: en_US 
+[2021-11-26 15:05:21 : INFO] - Server: LiteSpeed 
+[2021-11-26 15:05:21 : INFO] - Outbound connections: N 
+[2021-11-26 15:05:21 : INFO] - safe_mode: 0 
+[2021-11-26 15:05:21 : INFO] - max_execution_time: 30 
+[2021-11-26 15:05:21 : INFO] - memory_limit: 256M (used: 50.1M | 52.5M) 
+[2021-11-26 15:05:21 : INFO] - multisite: N 
+[2021-11-26 15:05:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-26 15:05:21 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2021-11-26 15:05:21 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:05:21 
+[2021-11-26 15:05:21 : INFO] - Semaphore lock (smush) complete 
+[2021-11-26 15:05:21 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-11-26 15:05:21 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:21 : INFO] - 95 
+[2021-11-26 15:05:25 : INFO] - Backing up the original image - 2021/11/20211123_142830-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:05:25 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:25 : INFO] - 95 
+[2021-11-26 15:05:26 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:26 : INFO] - 95 
+[2021-11-26 15:05:28 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:28 : INFO] - 95 
+[2021-11-26 15:05:30 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:30 : INFO] - 95 
+[2021-11-26 15:05:31 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:31 : INFO] - 95 
+[2021-11-26 15:05:34 : INFO] - Re_Smush_It_Task with attachment ID : 2534, autocreated on : November 26, 2021 03:00:08 
+[2021-11-26 15:05:34 : INFO] - 95 
+[2021-11-26 15:05:39 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_142830-scaled.jpg.The file was compressed from 1.29 MB to 1.20 MB saving 7.09 percent using WP-Optimize 
+[2021-11-26 15:05:39 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2021-11-26 15:05:39 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-11-26 15:05:39 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:39 : INFO] - 95 
+[2021-11-26 15:05:45 : INFO] - Backing up the original image - 2021/11/20211123_142607-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:05:45 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:45 : INFO] - 95 
+[2021-11-26 15:05:47 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:47 : INFO] - 95 
+[2021-11-26 15:05:51 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:51 : INFO] - 95 
+[2021-11-26 15:05:54 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:54 : INFO] - 95 
+[2021-11-26 15:05:56 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:56 : INFO] - 95 
+[2021-11-26 15:05:58 : INFO] - Re_Smush_It_Task with attachment ID : 2535, autocreated on : November 26, 2021 03:00:11 
+[2021-11-26 15:05:58 : INFO] - 95 
+[2021-11-26 15:06:02 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_142607-scaled.jpg.The file was compressed from 375.43 KB to 359.94 KB saving 4.13 percent using WP-Optimize 
+[2021-11-26 15:06:02 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2021-11-26 15:06:02 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:06:02 
+[2021-11-26 15:06:02 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2021-11-26 15:06:02 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:02 : INFO] - 95 
+[2021-11-26 15:06:11 : INFO] - Backing up the original image - 2021/11/20211123_142620-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:11 : INFO] - 95 
+[2021-11-26 15:06:13 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:13 : INFO] - 95 
+[2021-11-26 15:06:21 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:21 : INFO] - 95 
+[2021-11-26 15:06:22 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:22 : INFO] - 95 
+[2021-11-26 15:06:24 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:24 : INFO] - 95 
+[2021-11-26 15:06:26 : INFO] - Re_Smush_It_Task with attachment ID : 2536, autocreated on : November 26, 2021 03:00:14 
+[2021-11-26 15:06:26 : INFO] - 95 
+[2021-11-26 15:06:28 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_142620-scaled.jpg.The file was compressed from 534.80 KB to 516.11 KB saving 3.49 percent using WP-Optimize 
+[2021-11-26 15:06:28 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2021-11-26 15:06:28 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:06:28 
+[2021-11-26 15:06:28 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2021-11-26 15:06:28 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:28 : INFO] - 95 
+[2021-11-26 15:06:31 : INFO] - Backing up the original image - 2021/11/20211123_142428-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:06:32 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:32 : INFO] - 95 
+[2021-11-26 15:06:34 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:34 : INFO] - 95 
+[2021-11-26 15:06:39 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:39 : INFO] - 95 
+[2021-11-26 15:06:40 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:40 : INFO] - 95 
+[2021-11-26 15:06:42 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:42 : INFO] - 95 
+[2021-11-26 15:06:44 : INFO] - Re_Smush_It_Task with attachment ID : 2537, autocreated on : November 26, 2021 03:00:18 
+[2021-11-26 15:06:44 : INFO] - 95 
+[2021-11-26 15:06:46 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_142428-scaled.jpg.The file was compressed from 485.87 KB to 468.67 KB saving 3.54 percent using WP-Optimize 
+[2021-11-26 15:06:46 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2021-11-26 15:06:46 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2021-11-26 15:06:46 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:46 : INFO] - 95 
+[2021-11-26 15:06:49 : INFO] - Backing up the original image - 2021/11/20211123_142440-1-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:06:49 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:49 : INFO] - 95 
+[2021-11-26 15:06:53 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:53 : INFO] - 95 
+[2021-11-26 15:06:57 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:57 : INFO] - 95 
+[2021-11-26 15:06:58 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:58 : INFO] - 95 
+[2021-11-26 15:06:59 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:06:59 : INFO] - 95 
+[2021-11-26 15:07:01 : INFO] - Re_Smush_It_Task with attachment ID : 2538, autocreated on : November 26, 2021 03:00:21 
+[2021-11-26 15:07:01 : INFO] - 95 
+[2021-11-26 15:07:04 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_142440-1-scaled.jpg.The file was compressed from 389.63 KB to 373.23 KB saving 4.21 percent using WP-Optimize 
+[2021-11-26 15:07:04 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2021-11-26 15:07:04 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:07:04 
+[2021-11-26 15:07:04 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2021-11-26 15:07:04 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:04 : INFO] - 95 
+[2021-11-26 15:07:07 : INFO] - Backing up the original image - 2021/11/20211123_145024-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:07 : INFO] - 95 
+[2021-11-26 15:07:08 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:08 : INFO] - 95 
+[2021-11-26 15:07:11 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:11 : INFO] - 95 
+[2021-11-26 15:07:11 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:11 : INFO] - 95 
+[2021-11-26 15:07:13 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:13 : INFO] - 95 
+[2021-11-26 15:07:14 : INFO] - Re_Smush_It_Task with attachment ID : 2539, autocreated on : November 26, 2021 03:00:27 
+[2021-11-26 15:07:14 : INFO] - 95 
+[2021-11-26 15:07:19 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_145024-scaled.jpg.The file was compressed from 590.20 KB to 563.46 KB saving 4.53 percent using WP-Optimize 
+[2021-11-26 15:07:19 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2021-11-26 15:07:19 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2021-11-26 15:07:19 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:19 : INFO] - 95 
+[2021-11-26 15:07:22 : INFO] - Backing up the original image - 2021/11/20211123_145028-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:07:22 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:22 : INFO] - 95 
+[2021-11-26 15:07:24 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:24 : INFO] - 95 
+[2021-11-26 15:07:25 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:25 : INFO] - 95 
+[2021-11-26 15:07:26 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:26 : INFO] - 95 
+[2021-11-26 15:07:30 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:30 : INFO] - 95 
+[2021-11-26 15:07:33 : INFO] - Re_Smush_It_Task with attachment ID : 2540, autocreated on : November 26, 2021 03:00:30 
+[2021-11-26 15:07:33 : INFO] - 95 
+[2021-11-26 15:07:35 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/20211123_145028-scaled.jpg.The file was compressed from 447.99 KB to 425.79 KB saving 4.96 percent using WP-Optimize 
+[2021-11-26 15:07:35 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2021-11-26 15:07:35 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:07:35 
+[2021-11-26 15:07:35 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2021-11-26 15:07:35 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:35 : INFO] - 95 
+[2021-11-26 15:07:37 : INFO] - Backing up the original image - 2021/11/Resize3-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:07:38 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:38 : INFO] - 95 
+[2021-11-26 15:07:38 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:38 : INFO] - 95 
+[2021-11-26 15:07:41 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:41 : INFO] - 95 
+[2021-11-26 15:07:44 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:44 : INFO] - 95 
+[2021-11-26 15:07:46 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:46 : INFO] - 95 
+[2021-11-26 15:07:48 : INFO] - Re_Smush_It_Task with attachment ID : 2541, autocreated on : November 26, 2021 03:00:36 
+[2021-11-26 15:07:48 : INFO] - 95 
+[2021-11-26 15:07:54 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/Resize3-scaled.jpg.The file was compressed from 756.58 KB to 718.07 KB saving 5.09 percent using WP-Optimize 
+[2021-11-26 15:07:54 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2021-11-26 15:07:54 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2021-11-26 15:07:54 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:07:54 : INFO] - 95 
+[2021-11-26 15:07:56 : INFO] - Backing up the original image - 2021/11/VL-at-night-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:07:56 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:07:56 : INFO] - 95 
+[2021-11-26 15:07:58 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:07:58 : INFO] - 95 
+[2021-11-26 15:08:03 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:08:03 : INFO] - 95 
+[2021-11-26 15:08:04 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:08:04 : INFO] - 95 
+[2021-11-26 15:08:06 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:08:06 : INFO] - 95 
+[2021-11-26 15:08:08 : INFO] - Re_Smush_It_Task with attachment ID : 2542, autocreated on : November 26, 2021 03:00:40 
+[2021-11-26 15:08:08 : INFO] - 95 
+[2021-11-26 15:08:10 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/VL-at-night-scaled.jpg.The file was compressed from 544.74 KB to 512.71 KB saving 5.88 percent using WP-Optimize 
+[2021-11-26 15:08:10 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2021-11-26 15:08:10 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:08:10 
+[2021-11-26 15:08:10 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2021-11-26 15:08:10 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:10 : INFO] - 95 
+[2021-11-26 15:08:12 : INFO] - Backing up the original image - 2021/11/Restaurant-scaled-updraft-pre-smush-original.jpg 
+[2021-11-26 15:08:12 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:12 : INFO] - 95 
+[2021-11-26 15:08:14 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:14 : INFO] - 95 
+[2021-11-26 15:08:16 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:16 : INFO] - 95 
+[2021-11-26 15:08:20 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:20 : INFO] - 95 
+[2021-11-26 15:08:21 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:21 : INFO] - 95 
+[2021-11-26 15:08:26 : INFO] - Re_Smush_It_Task with attachment ID : 2543, autocreated on : November 26, 2021 03:00:43 
+[2021-11-26 15:08:26 : INFO] - 95 
+[2021-11-26 15:08:28 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/Restaurant-scaled.jpg.The file was compressed from 534.80 KB to 516.11 KB saving 3.49 percent using WP-Optimize 
+[2021-11-26 15:08:28 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2021-11-26 15:08:28 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2021-11-26 15:08:28 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:28 : INFO] - 95 
+[2021-11-26 15:08:30 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113536-updraft-pre-smush-original.jpg 
+[2021-11-26 15:08:30 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:30 : INFO] - 95 
+[2021-11-26 15:08:32 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:32 : INFO] - 95 
+[2021-11-26 15:08:34 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:34 : INFO] - 95 
+[2021-11-26 15:08:38 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:38 : INFO] - 95 
+[2021-11-26 15:08:40 : INFO] - Re_Smush_It_Task with attachment ID : 2544, autocreated on : November 26, 2021 03:00:47 
+[2021-11-26 15:08:40 : INFO] - 95 
+[2021-11-26 15:08:41 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211104_113536.jpg.The file was compressed from 372.25 KB to 359.88 KB saving 3.32 percent using WP-Optimize 
+[2021-11-26 15:08:41 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2021-11-26 15:08:41 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:08:41 
+[2021-11-26 15:08:41 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2021-11-26 15:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:41 : INFO] - 95 
+[2021-11-26 15:08:47 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113938-updraft-pre-smush-original.jpg 
+[2021-11-26 15:08:47 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:47 : INFO] - 95 
+[2021-11-26 15:08:51 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:51 : INFO] - 95 
+[2021-11-26 15:08:53 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:53 : INFO] - 95 
+[2021-11-26 15:08:53 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:53 : INFO] - 95 
+[2021-11-26 15:08:54 : INFO] - Re_Smush_It_Task with attachment ID : 2545, autocreated on : November 26, 2021 03:00:49 
+[2021-11-26 15:08:54 : INFO] - 95 
+[2021-11-26 15:08:56 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211104_113938.jpg.The file was compressed from 375.83 KB to 361.78 KB saving 3.74 percent using WP-Optimize 
+[2021-11-26 15:08:56 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2021-11-26 15:08:56 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2021-11-26 15:08:56 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:08:56 : INFO] - 95 
+[2021-11-26 15:08:58 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113609-updraft-pre-smush-original.jpg 
+[2021-11-26 15:08:58 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:08:58 : INFO] - 95 
+[2021-11-26 15:09:05 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:09:05 : INFO] - 95 
+[2021-11-26 15:09:07 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:09:07 : INFO] - 95 
+[2021-11-26 15:09:10 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:09:10 : INFO] - 95 
+[2021-11-26 15:09:11 : INFO] - Re_Smush_It_Task with attachment ID : 2546, autocreated on : November 26, 2021 03:00:51 
+[2021-11-26 15:09:11 : INFO] - 95 
+[2021-11-26 15:09:15 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211104_113609.jpg.The file was compressed from 252.06 KB to 242.03 KB saving 3.98 percent using WP-Optimize 
+[2021-11-26 15:09:15 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2021-11-26 15:09:15 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:09:15 
+[2021-11-26 15:09:15 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2021-11-26 15:09:15 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:15 : INFO] - 95 
+[2021-11-26 15:09:18 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113353-updraft-pre-smush-original.jpg 
+[2021-11-26 15:09:18 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:18 : INFO] - 95 
+[2021-11-26 15:09:22 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:22 : INFO] - 95 
+[2021-11-26 15:09:23 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:23 : INFO] - 95 
+[2021-11-26 15:09:24 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:24 : INFO] - 95 
+[2021-11-26 15:09:25 : INFO] - Re_Smush_It_Task with attachment ID : 2547, autocreated on : November 26, 2021 03:00:53 
+[2021-11-26 15:09:25 : INFO] - 95 
+[2021-11-26 15:09:27 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211104_113353.jpg.The file was compressed from 568.97 KB to 539.81 KB saving 5.12 percent using WP-Optimize 
+[2021-11-26 15:09:27 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2021-11-26 15:09:27 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2021-11-26 15:09:27 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:27 : INFO] - 95 
+[2021-11-26 15:09:30 : INFO] - Backing up the original image - 2021/11/IMG_20211104_113812-1-updraft-pre-smush-original.jpg 
+[2021-11-26 15:09:30 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:30 : INFO] - 95 
+[2021-11-26 15:09:32 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:32 : INFO] - 95 
+[2021-11-26 15:09:37 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:37 : INFO] - 95 
+[2021-11-26 15:09:38 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:38 : INFO] - 95 
+[2021-11-26 15:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 2548, autocreated on : November 26, 2021 03:00:55 
+[2021-11-26 15:09:41 : INFO] - 95 
+[2021-11-26 15:09:46 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/IMG_20211104_113812-1.jpg.The file was compressed from 406.29 KB to 394.22 KB saving 2.97 percent using WP-Optimize 
+[2021-11-26 15:09:46 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2021-11-26 15:09:46 : INFO] - Set semaphore last lock (smush) time to 2021-11-26 15:09:46 
+[2021-11-26 15:09:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-26 15:09:46 : INFO] - Semaphore (smush) unlocked 
+[2021-11-26 15:09:46 : INFO] - Successfully processed the queue (smush). 15 tasks were processed out of 15. 
+[2021-11-26 15:09:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-26 15:09:46 : INFO] - Cleaning up tasks of type (smush). A total of 15 tasks will be deleted. 
+[2021-11-26 15:15:50 : INFO] - 
+ 
+[2021-11-26 15:15:50 : INFO] - Header for logs at time:  Fri, 26 Nov 2021 15:15:50 +0000 on https://vistadalagoa.com 
+[2021-11-26 15:15:50 : INFO] - WP: 5.8.2 
+[2021-11-26 15:15:50 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-26 15:15:50 : INFO] - MySQL: 5.5.5 
+[2021-11-26 15:15:50 : INFO] - WPLANG: en_US 
+[2021-11-26 15:15:50 : INFO] - Server: LiteSpeed 
+[2021-11-26 15:15:50 : INFO] - Outbound connections: N 
+[2021-11-26 15:15:50 : INFO] - safe_mode: 0 
+[2021-11-26 15:15:50 : INFO] - max_execution_time: 30 
+[2021-11-26 15:15:50 : INFO] - memory_limit: 128M (used: 50.2M | 20.5M) 
+[2021-11-26 15:15:50 : INFO] - multisite: N 
+[2021-11-26 15:15:50 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-26 15:15:50 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-27 01:47:28 : INFO] - Re_Smush_It_Task with attachment ID : 2608, autocreated on : November 27, 2021 01:47:28 
+[2021-11-27 01:53:39 : INFO] - 
+ 
+[2021-11-27 01:53:39 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 01:53:39 +0000 on https://vistadalagoa.com 
+[2021-11-27 01:53:39 : INFO] - WP: 5.8.2 
+[2021-11-27 01:53:39 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 01:53:39 : INFO] - MySQL: 5.5.5 
+[2021-11-27 01:53:39 : INFO] - WPLANG: en_US 
+[2021-11-27 01:53:39 : INFO] - Server: LiteSpeed 
+[2021-11-27 01:53:39 : INFO] - Outbound connections: N 
+[2021-11-27 01:53:39 : INFO] - safe_mode: 0 
+[2021-11-27 01:53:39 : INFO] - max_execution_time: 30 
+[2021-11-27 01:53:39 : INFO] - memory_limit: 256M (used: 52M | 54.5M) 
+[2021-11-27 01:53:39 : INFO] - multisite: N 
+[2021-11-27 01:53:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 01:53:39 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-27 01:53:39 : INFO] - Set semaphore last lock (smush) time to 2021-11-27 01:53:39 
+[2021-11-27 01:53:39 : INFO] - Semaphore lock (smush) complete 
+[2021-11-27 01:53:39 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2021-11-27 01:53:39 : INFO] - Re_Smush_It_Task with attachment ID : 2608, autocreated on : November 27, 2021 01:47:28 
+[2021-11-27 01:53:39 : INFO] - 95 
+[2021-11-27 01:53:46 : INFO] - Backing up the original image - 2021/11/bckfround_logo_vistadalagoa-removebg-preview-updraft-pre-smush-original.png 
+[2021-11-27 01:53:46 : INFO] - Re_Smush_It_Task with attachment ID : 2608, autocreated on : November 27, 2021 01:47:28 
+[2021-11-27 01:53:46 : INFO] - 95 
+[2021-11-27 01:53:48 : INFO] - Re_Smush_It_Task with attachment ID : 2608, autocreated on : November 27, 2021 01:47:28 
+[2021-11-27 01:53:48 : INFO] - 95 
+[2021-11-27 01:53:49 : INFO] - Re_Smush_It_Task with attachment ID : 2608, autocreated on : November 27, 2021 01:47:28 
+[2021-11-27 01:53:49 : INFO] - 95 
+[2021-11-27 01:53:50 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/bckfround_logo_vistadalagoa-removebg-preview.png.The file was compressed from 101.14 KB to 27.81 KB saving 72.5 percent using WP-Optimize 
+[2021-11-27 01:53:50 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2021-11-27 01:53:50 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-27 01:53:50 : INFO] - Semaphore (smush) unlocked 
+[2021-11-27 01:53:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-27 01:53:50 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-27 01:53:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-27 02:41:18 : INFO] - 
+ 
+[2021-11-27 02:41:18 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 02:41:18 +0000 on https://vistadalagoa.com 
+[2021-11-27 02:41:18 : INFO] - WP: 5.8.2 
+[2021-11-27 02:41:18 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 02:41:18 : INFO] - MySQL: 5.5.5 
+[2021-11-27 02:41:18 : INFO] - WPLANG: en_US 
+[2021-11-27 02:41:18 : INFO] - Server: LiteSpeed 
+[2021-11-27 02:41:18 : INFO] - Outbound connections: N 
+[2021-11-27 02:41:18 : INFO] - safe_mode: 0 
+[2021-11-27 02:41:18 : INFO] - max_execution_time: 30 
+[2021-11-27 02:41:18 : INFO] - memory_limit: 256M (used: 52M | 54.5M) 
+[2021-11-27 02:41:18 : INFO] - multisite: N 
+[2021-11-27 02:41:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 02:41:18 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-27 05:39:17 : INFO] - Re_Smush_It_Task with attachment ID : 2619, autocreated on : November 27, 2021 05:39:17 
+[2021-11-27 05:42:48 : INFO] - Re_Smush_It_Task with attachment ID : 2621, autocreated on : November 27, 2021 05:42:48 
+[2021-11-27 05:45:29 : INFO] - 
+ 
+[2021-11-27 05:45:29 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 05:45:29 +0000 on https://vistadalagoa.com 
+[2021-11-27 05:45:29 : INFO] - WP: 5.8.2 
+[2021-11-27 05:45:29 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 05:45:29 : INFO] - MySQL: 5.5.5 
+[2021-11-27 05:45:29 : INFO] - WPLANG: en_US 
+[2021-11-27 05:45:29 : INFO] - Server: LiteSpeed 
+[2021-11-27 05:45:29 : INFO] - Outbound connections: N 
+[2021-11-27 05:45:29 : INFO] - safe_mode: 0 
+[2021-11-27 05:45:29 : INFO] - max_execution_time: 30 
+[2021-11-27 05:45:29 : INFO] - memory_limit: 128M (used: 52M | 54.5M) 
+[2021-11-27 05:45:29 : INFO] - multisite: N 
+[2021-11-27 05:45:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 05:45:29 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-11-27 05:45:29 : INFO] - Set semaphore last lock (smush) time to 2021-11-27 05:45:29 
+[2021-11-27 05:45:29 : INFO] - Semaphore lock (smush) complete 
+[2021-11-27 05:45:29 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2021-11-27 05:45:29 : INFO] - Task with ID 21 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-11-27 05:45:29 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2021-11-27 05:45:29 : INFO] - Re_Smush_It_Task with attachment ID : 2621, autocreated on : November 27, 2021 05:42:48 
+[2021-11-27 05:45:29 : INFO] - 95 
+[2021-11-27 05:45:30 : INFO] - Backing up the original image - 2021/11/bckfround_logo_vistadalagoa-removebg-preview-2-updraft-pre-smush-original.png 
+[2021-11-27 05:45:30 : INFO] - Re_Smush_It_Task with attachment ID : 2621, autocreated on : November 27, 2021 05:42:48 
+[2021-11-27 05:45:30 : INFO] - 95 
+[2021-11-27 05:45:32 : INFO] - Re_Smush_It_Task with attachment ID : 2621, autocreated on : November 27, 2021 05:42:48 
+[2021-11-27 05:45:32 : INFO] - 95 
+[2021-11-27 05:45:32 : INFO] - Re_Smush_It_Task with attachment ID : 2621, autocreated on : November 27, 2021 05:42:48 
+[2021-11-27 05:45:32 : INFO] - 95 
+[2021-11-27 05:45:33 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/bckfround_logo_vistadalagoa-removebg-preview-2.png.The file was compressed from 93.49 KB to 27.31 KB saving 70.78 percent using WP-Optimize 
+[2021-11-27 05:45:33 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2021-11-27 05:45:33 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-27 05:45:33 : INFO] - Semaphore (smush) unlocked 
+[2021-11-27 05:45:33 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-11-27 05:45:33 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-27 05:45:33 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-11-27 05:56:26 : INFO] - 
+ 
+[2021-11-27 05:56:26 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 05:56:26 +0000 on https://vistadalagoa.com 
+[2021-11-27 05:56:26 : INFO] - WP: 5.8.2 
+[2021-11-27 05:56:26 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 05:56:26 : INFO] - MySQL: 5.5.5 
+[2021-11-27 05:56:26 : INFO] - WPLANG: en_US 
+[2021-11-27 05:56:26 : INFO] - Server: LiteSpeed 
+[2021-11-27 05:56:26 : INFO] - Outbound connections: N 
+[2021-11-27 05:56:26 : INFO] - safe_mode: 0 
+[2021-11-27 05:56:26 : INFO] - max_execution_time: 30 
+[2021-11-27 05:56:26 : INFO] - memory_limit: 256M (used: 52M | 54.5M) 
+[2021-11-27 05:56:26 : INFO] - multisite: N 
+[2021-11-27 05:56:26 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 05:56:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-11-27 06:41:05 : INFO] - Re_Smush_It_Task with attachment ID : 2634, autocreated on : November 27, 2021 06:41:05 
+[2021-11-27 06:47:47 : INFO] - 
+ 
+[2021-11-27 06:47:47 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 06:47:47 +0000 on https://vistadalagoa.com 
+[2021-11-27 06:47:47 : INFO] - WP: 5.8.2 
+[2021-11-27 06:47:47 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 06:47:47 : INFO] - MySQL: 5.5.5 
+[2021-11-27 06:47:47 : INFO] - WPLANG: en_US 
+[2021-11-27 06:47:47 : INFO] - Server: LiteSpeed 
+[2021-11-27 06:47:47 : INFO] - Outbound connections: N 
+[2021-11-27 06:47:47 : INFO] - safe_mode: 0 
+[2021-11-27 06:47:47 : INFO] - max_execution_time: 30 
+[2021-11-27 06:47:47 : INFO] - memory_limit: 128M (used: 52M | 54.5M) 
+[2021-11-27 06:47:47 : INFO] - multisite: N 
+[2021-11-27 06:47:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 06:47:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-11-27 06:47:47 : INFO] - Set semaphore last lock (smush) time to 2021-11-27 06:47:47 
+[2021-11-27 06:47:47 : INFO] - Semaphore lock (smush) complete 
+[2021-11-27 06:47:47 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2021-11-27 06:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 2634, autocreated on : November 27, 2021 06:41:05 
+[2021-11-27 06:47:47 : INFO] - 95 
+[2021-11-27 06:47:48 : INFO] - Backing up the original image - 2021/11/bar-removebg-preview-updraft-pre-smush-original.png 
+[2021-11-27 06:47:48 : INFO] - Re_Smush_It_Task with attachment ID : 2634, autocreated on : November 27, 2021 06:41:05 
+[2021-11-27 06:47:48 : INFO] - 95 
+[2021-11-27 06:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 2634, autocreated on : November 27, 2021 06:41:05 
+[2021-11-27 06:47:49 : INFO] - 95 
+[2021-11-27 06:47:50 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/11/bar-removebg-preview.png.The file was compressed from 166.39 KB to 62.40 KB saving 62.5 percent using WP-Optimize 
+[2021-11-27 06:47:50 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2021-11-27 06:47:50 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-11-27 06:47:50 : INFO] - Semaphore (smush) unlocked 
+[2021-11-27 06:47:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-11-27 06:47:50 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-11-27 06:47:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-11-27 08:15:05 : INFO] - 
+ 
+[2021-11-27 08:15:05 : INFO] - Header for logs at time:  Sat, 27 Nov 2021 08:15:05 +0000 on https://vistadalagoa.com 
+[2021-11-27 08:15:05 : INFO] - WP: 5.8.2 
+[2021-11-27 08:15:05 : INFO] - PHP: 7.4.25 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.52.el7.x86_64 #1 SMP Tue Apr 13 05:36:43 EDT 2021 x86_64) 
+[2021-11-27 08:15:05 : INFO] - MySQL: 5.5.5 
+[2021-11-27 08:15:05 : INFO] - WPLANG: en_US 
+[2021-11-27 08:15:05 : INFO] - Server: LiteSpeed 
+[2021-11-27 08:15:05 : INFO] - Outbound connections: N 
+[2021-11-27 08:15:05 : INFO] - safe_mode: 0 
+[2021-11-27 08:15:05 : INFO] - max_execution_time: 30 
+[2021-11-27 08:15:05 : INFO] - memory_limit: 256M (used: 52M | 54.5M) 
+[2021-11-27 08:15:05 : INFO] - multisite: N 
+[2021-11-27 08:15:05 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-11-27 08:15:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-09 14:23:08 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:25:29 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:28:51 : INFO] - 
+ 
+[2021-12-09 14:28:51 : INFO] - Header for logs at time:  Thu, 09 Dec 2021 14:28:51 +0000 on https://vistadalagoa.com 
+[2021-12-09 14:28:51 : INFO] - WP: 5.8.2 
+[2021-12-09 14:28:51 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-09 14:28:51 : INFO] - MySQL: 5.5.5 
+[2021-12-09 14:28:51 : INFO] - WPLANG: en_US 
+[2021-12-09 14:28:51 : INFO] - Server: LiteSpeed 
+[2021-12-09 14:28:51 : INFO] - Outbound connections: N 
+[2021-12-09 14:28:51 : INFO] - safe_mode: 0 
+[2021-12-09 14:28:51 : INFO] - max_execution_time: 30 
+[2021-12-09 14:28:51 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-09 14:28:51 : INFO] - multisite: N 
+[2021-12-09 14:28:51 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-09 14:28:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-09 14:28:51 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-09 14:28:51 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-09 14:28:51 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2021-12-09 14:28:51 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:28:51 : INFO] - 65 
+[2021-12-09 14:28:58 : INFO] - Task with ID 24 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-09 14:28:58 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/2e3a87613143a00e0fdb97c9ee625ff3\/_src_20211123_144752-scaled.jpg","dest":"http:\/\/par2.static.resmush.it\/2e3a87613143a00e0fdb97c9ee625ff3\/20211123_144752-scaled.jpg","src_size":553684,"dest_size":412941,"percent":25,"output":"json","expires":"Thu, 09 Dec 2021 15:33:53 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-09 14:28:58 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:28:58 : INFO] - 65 
+[2021-12-09 14:28:58 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:28:58 : INFO] - 65 
+[2021-12-09 14:29:03 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:29:03 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:29:03 : INFO] - 65 
+[2021-12-09 14:29:04 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:29:04 : INFO] - 65 
+[2021-12-09 14:29:05 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:29:05 : INFO] - 65 
+[2021-12-09 14:29:07 : INFO] - Re_Smush_It_Task with attachment ID : 2769, autocreated on : December 09, 2021 02:23:08 
+[2021-12-09 14:29:07 : INFO] - 65 
+[2021-12-09 14:29:09 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_144752-scaled.jpg.The file was compressed from 540.71 KB to 540.71 KB saving 0 percent using WP-Optimize 
+[2021-12-09 14:29:09 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2021-12-09 14:29:09 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2021-12-09 14:29:09 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:09 : INFO] - 65 
+[2021-12-09 14:29:12 : INFO] - Backing up the original image - 2021/12/LV-at-Colomb-Bay-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:29:12 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:12 : INFO] - 65 
+[2021-12-09 14:29:15 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:15 : INFO] - 65 
+[2021-12-09 14:29:17 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:17 : INFO] - 65 
+[2021-12-09 14:29:17 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:17 : INFO] - 65 
+[2021-12-09 14:29:22 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:22 : INFO] - 65 
+[2021-12-09 14:29:24 : INFO] - Re_Smush_It_Task with attachment ID : 2770, autocreated on : December 09, 2021 02:25:29 
+[2021-12-09 14:29:24 : INFO] - 65 
+[2021-12-09 14:29:28 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/LV-at-Colomb-Bay-scaled.jpg.The file was compressed from 549.85 KB to 413.69 KB saving 24.76 percent using WP-Optimize 
+[2021-12-09 14:29:28 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2021-12-09 14:29:28 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-09 14:29:28 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-09 14:29:28 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-09 14:33:49 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:33:55 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:34:17 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:34:51 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:38:31 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:38:55 : INFO] - 
+ 
+[2021-12-09 14:38:55 : INFO] - Header for logs at time:  Thu, 09 Dec 2021 14:38:55 +0000 on https://vistadalagoa.com 
+[2021-12-09 14:38:55 : INFO] - WP: 5.8.2 
+[2021-12-09 14:38:55 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-09 14:38:55 : INFO] - MySQL: 5.5.5 
+[2021-12-09 14:38:55 : INFO] - WPLANG: en_US 
+[2021-12-09 14:38:55 : INFO] - Server: LiteSpeed 
+[2021-12-09 14:38:55 : INFO] - Outbound connections: N 
+[2021-12-09 14:38:55 : INFO] - safe_mode: 0 
+[2021-12-09 14:38:55 : INFO] - max_execution_time: 30 
+[2021-12-09 14:38:55 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-09 14:38:55 : INFO] - multisite: N 
+[2021-12-09 14:38:55 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-09 14:38:55 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2021-12-09 14:38:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-09 14:38:55 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-09 14:38:55 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2021-12-09 14:38:55 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:38:55 : INFO] - 65 
+[2021-12-09 14:38:59 : INFO] - Backing up the original image - 2021/12/Balcony-PBV-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:38:59 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:38:59 : INFO] - 65 
+[2021-12-09 14:39:00 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:39:00 : INFO] - 65 
+[2021-12-09 14:39:05 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:39:05 : INFO] - 65 
+[2021-12-09 14:39:10 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:39:10 : INFO] - 65 
+[2021-12-09 14:39:12 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:39:12 : INFO] - 65 
+[2021-12-09 14:39:15 : INFO] - Re_Smush_It_Task with attachment ID : 2771, autocreated on : December 09, 2021 02:29:03 
+[2021-12-09 14:39:15 : INFO] - 65 
+[2021-12-09 14:39:18 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Balcony-PBV-scaled.jpg.The file was compressed from 1.21 MB to 940.48 KB saving 24.2 percent using WP-Optimize 
+[2021-12-09 14:39:18 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2021-12-09 14:39:18 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2021-12-09 14:39:18 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:18 : INFO] - 65 
+[2021-12-09 14:39:24 : INFO] - Backing up the original image - 2021/12/20211123_142708-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:39:24 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:24 : INFO] - 65 
+[2021-12-09 14:39:25 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:25 : INFO] - 65 
+[2021-12-09 14:39:27 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:27 : INFO] - 65 
+[2021-12-09 14:39:28 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:28 : INFO] - 65 
+[2021-12-09 14:39:34 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:34 : INFO] - 65 
+[2021-12-09 14:39:37 : INFO] - Re_Smush_It_Task with attachment ID : 2772, autocreated on : December 09, 2021 02:33:49 
+[2021-12-09 14:39:37 : INFO] - 65 
+[2021-12-09 14:39:39 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_142708-scaled.jpg.The file was compressed from 572.87 KB to 430.84 KB saving 24.79 percent using WP-Optimize 
+[2021-12-09 14:39:39 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2021-12-09 14:39:39 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2021-12-09 14:39:39 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:39 : INFO] - 65 
+[2021-12-09 14:39:45 : INFO] - Backing up the original image - 2021/12/20211123_142757-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:39:45 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:45 : INFO] - 65 
+[2021-12-09 14:39:45 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:45 : INFO] - 65 
+[2021-12-09 14:39:50 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:50 : INFO] - 65 
+[2021-12-09 14:39:53 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:53 : INFO] - 65 
+[2021-12-09 14:39:54 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:54 : INFO] - 65 
+[2021-12-09 14:39:56 : INFO] - Re_Smush_It_Task with attachment ID : 2773, autocreated on : December 09, 2021 02:33:55 
+[2021-12-09 14:39:56 : INFO] - 65 
+[2021-12-09 14:39:58 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_142757-scaled.jpg.The file was compressed from 706.80 KB to 532.03 KB saving 24.73 percent using WP-Optimize 
+[2021-12-09 14:39:58 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2021-12-09 14:39:58 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2021-12-09 14:39:58 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:39:58 : INFO] - 65 
+[2021-12-09 14:40:00 : INFO] - Backing up the original image - 2021/12/20211123_142620-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:40:00 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:00 : INFO] - 65 
+[2021-12-09 14:40:02 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:02 : INFO] - 65 
+[2021-12-09 14:40:07 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:07 : INFO] - 65 
+[2021-12-09 14:40:08 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:08 : INFO] - 65 
+[2021-12-09 14:40:10 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:10 : INFO] - 65 
+[2021-12-09 14:40:16 : INFO] - Re_Smush_It_Task with attachment ID : 2774, autocreated on : December 09, 2021 02:34:17 
+[2021-12-09 14:40:16 : INFO] - 65 
+[2021-12-09 14:40:18 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_142620-scaled.jpg.The file was compressed from 534.80 KB to 408.05 KB saving 23.7 percent using WP-Optimize 
+[2021-12-09 14:40:18 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2021-12-09 14:40:18 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2021-12-09 14:40:18 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:18 : INFO] - 65 
+[2021-12-09 14:40:26 : INFO] - Task with ID 30 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-09 14:40:26 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/f4e426ebd7dba6f9aca9e951bb58fb5a\/_src_BV-scaled.jpg","dest":"http:\/\/par3.static.resmush.it\/f4e426ebd7dba6f9aca9e951bb58fb5a\/BV-scaled.jpg","src_size":1454800,"dest_size":1094232,"percent":25,"output":"json","expires":"Thu, 09 Dec 2021 15:45:21 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-09 14:40:26 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:26 : INFO] - 65 
+[2021-12-09 14:40:33 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:33 : INFO] - 65 
+[2021-12-09 14:40:35 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:35 : INFO] - 65 
+[2021-12-09 14:40:37 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:37 : INFO] - 65 
+[2021-12-09 14:40:41 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:41 : INFO] - 65 
+[2021-12-09 14:40:49 : INFO] - Re_Smush_It_Task with attachment ID : 2775, autocreated on : December 09, 2021 02:34:51 
+[2021-12-09 14:40:49 : INFO] - 65 
+[2021-12-09 14:40:52 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/BV-scaled.jpg.The file was compressed from 1.39 MB to 1.39 MB saving 0 percent using WP-Optimize 
+[2021-12-09 14:40:52 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2021-12-09 14:40:52 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2021-12-09 14:40:52 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:40:52 : INFO] - 65 
+[2021-12-09 14:40:58 : INFO] - Backing up the original image - 2021/12/Entrance-and-Restaurant-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:40:58 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:40:58 : INFO] - 65 
+[2021-12-09 14:41:00 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:41:00 : INFO] - 65 
+[2021-12-09 14:41:04 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:41:04 : INFO] - 65 
+[2021-12-09 14:41:05 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:41:05 : INFO] - 65 
+[2021-12-09 14:41:07 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:41:07 : INFO] - 65 
+[2021-12-09 14:41:13 : INFO] - Re_Smush_It_Task with attachment ID : 2776, autocreated on : December 09, 2021 02:35:32 
+[2021-12-09 14:41:13 : INFO] - 65 
+[2021-12-09 14:41:16 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Entrance-and-Restaurant-scaled.jpg.The file was compressed from 1.07 MB to 826.66 KB saving 24.47 percent using WP-Optimize 
+[2021-12-09 14:41:16 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2021-12-09 14:41:16 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2021-12-09 14:41:16 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:16 : INFO] - 65 
+[2021-12-09 14:41:19 : INFO] - Backing up the original image - 2021/12/Premium-Bay-View-scaled-updraft-pre-smush-original.jpg 
+[2021-12-09 14:41:19 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:19 : INFO] - 65 
+[2021-12-09 14:41:24 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:24 : INFO] - 65 
+[2021-12-09 14:41:27 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:27 : INFO] - 65 
+[2021-12-09 14:41:35 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:35 : INFO] - 65 
+[2021-12-09 14:41:36 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:36 : INFO] - 65 
+[2021-12-09 14:41:41 : INFO] - Re_Smush_It_Task with attachment ID : 2777, autocreated on : December 09, 2021 02:38:30 
+[2021-12-09 14:41:41 : INFO] - 65 
+[2021-12-09 14:41:47 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Premium-Bay-View-scaled.jpg.The file was compressed from 663.99 KB to 514.36 KB saving 22.53 percent using WP-Optimize 
+[2021-12-09 14:41:47 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2021-12-09 14:41:47 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-09 14:41:47 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2021-12-09 14:41:47 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-09 14:41:47 : INFO] - Cleaning up tasks of type (smush). A total of 9 tasks will be deleted. 
+[2021-12-09 14:49:21 : INFO] - 
+ 
+[2021-12-09 14:49:21 : INFO] - Header for logs at time:  Thu, 09 Dec 2021 14:49:21 +0000 on https://vistadalagoa.com 
+[2021-12-09 14:49:21 : INFO] - WP: 5.8.2 
+[2021-12-09 14:49:21 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-09 14:49:21 : INFO] - MySQL: 5.5.5 
+[2021-12-09 14:49:21 : INFO] - WPLANG: en_US 
+[2021-12-09 14:49:21 : INFO] - Server: LiteSpeed 
+[2021-12-09 14:49:21 : INFO] - Outbound connections: N 
+[2021-12-09 14:49:21 : INFO] - safe_mode: 0 
+[2021-12-09 14:49:21 : INFO] - max_execution_time: 30 
+[2021-12-09 14:49:21 : INFO] - memory_limit: 256M (used: 52.2M | 54.5M) 
+[2021-12-09 14:49:21 : INFO] - multisite: N 
+[2021-12-09 14:49:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-09 14:49:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-10 05:18:42 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:47 : INFO] - 
+ 
+[2021-12-10 05:23:47 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 05:23:47 +0000 on https://vistadalagoa.com 
+[2021-12-10 05:23:47 : INFO] - WP: 5.8.2 
+[2021-12-10 05:23:47 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 05:23:47 : INFO] - MySQL: 5.5.5 
+[2021-12-10 05:23:47 : INFO] - WPLANG: en_US 
+[2021-12-10 05:23:47 : INFO] - Server: LiteSpeed 
+[2021-12-10 05:23:47 : INFO] - Outbound connections: N 
+[2021-12-10 05:23:47 : INFO] - safe_mode: 0 
+[2021-12-10 05:23:47 : INFO] - max_execution_time: 30 
+[2021-12-10 05:23:47 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 05:23:47 : INFO] - multisite: N 
+[2021-12-10 05:23:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 05:23:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 05:23:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 05:23:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 05:23:47 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2021-12-10 05:23:47 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:47 : INFO] - 65 
+[2021-12-10 05:23:49 : INFO] - Backing up the original image - 2021/12/LW-FSV-1-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 05:23:49 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:49 : INFO] - 65 
+[2021-12-10 05:23:50 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:50 : INFO] - 65 
+[2021-12-10 05:23:51 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:51 : INFO] - 65 
+[2021-12-10 05:23:53 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:53 : INFO] - 65 
+[2021-12-10 05:23:56 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:56 : INFO] - 65 
+[2021-12-10 05:23:59 : INFO] - Re_Smush_It_Task with attachment ID : 2868, autocreated on : December 10, 2021 05:18:42 
+[2021-12-10 05:23:59 : INFO] - 65 
+[2021-12-10 05:24:04 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/LW-FSV-1-scaled.jpg.The file was compressed from 767.31 KB to 587.01 KB saving 23.5 percent using WP-Optimize 
+[2021-12-10 05:24:04 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2021-12-10 05:24:04 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 05:24:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-10 05:24:04 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 05:24:04 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-10 05:25:24 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:26:16 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:26:29 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:01 : INFO] - 
+ 
+[2021-12-10 05:34:01 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 05:34:01 +0000 on https://vistadalagoa.com 
+[2021-12-10 05:34:01 : INFO] - WP: 5.8.2 
+[2021-12-10 05:34:01 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 05:34:01 : INFO] - MySQL: 5.5.5 
+[2021-12-10 05:34:01 : INFO] - WPLANG: en_US 
+[2021-12-10 05:34:01 : INFO] - Server: LiteSpeed 
+[2021-12-10 05:34:01 : INFO] - Outbound connections: N 
+[2021-12-10 05:34:01 : INFO] - safe_mode: 0 
+[2021-12-10 05:34:01 : INFO] - max_execution_time: 30 
+[2021-12-10 05:34:01 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 05:34:01 : INFO] - multisite: N 
+[2021-12-10 05:34:01 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 05:34:01 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 05:34:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 05:34:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 05:34:01 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2021-12-10 05:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:01 : INFO] - 65 
+[2021-12-10 05:34:04 : INFO] - Backing up the original image - 2021/12/20211130_151014-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 05:34:04 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:04 : INFO] - 65 
+[2021-12-10 05:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:06 : INFO] - 65 
+[2021-12-10 05:34:11 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:11 : INFO] - 65 
+[2021-12-10 05:34:12 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:12 : INFO] - 65 
+[2021-12-10 05:34:13 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:13 : INFO] - 65 
+[2021-12-10 05:34:15 : INFO] - Re_Smush_It_Task with attachment ID : 2869, autocreated on : December 10, 2021 05:25:24 
+[2021-12-10 05:34:15 : INFO] - 65 
+[2021-12-10 05:34:18 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211130_151014-scaled.jpg.The file was compressed from 680.88 KB to 517.41 KB saving 24.01 percent using WP-Optimize 
+[2021-12-10 05:34:18 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2021-12-10 05:34:18 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2021-12-10 05:34:18 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:18 : INFO] - 65 
+[2021-12-10 05:34:20 : INFO] - Backing up the original image - 2021/12/20211130_150310-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 05:34:20 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:20 : INFO] - 65 
+[2021-12-10 05:34:21 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:21 : INFO] - 65 
+[2021-12-10 05:34:22 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:22 : INFO] - 65 
+[2021-12-10 05:34:23 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:23 : INFO] - 65 
+[2021-12-10 05:34:27 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:27 : INFO] - 65 
+[2021-12-10 05:34:28 : INFO] - Re_Smush_It_Task with attachment ID : 2870, autocreated on : December 10, 2021 05:26:16 
+[2021-12-10 05:34:28 : INFO] - 65 
+[2021-12-10 05:34:30 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211130_150310-scaled.jpg.The file was compressed from 643.28 KB to 488.94 KB saving 23.99 percent using WP-Optimize 
+[2021-12-10 05:34:30 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2021-12-10 05:34:30 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2021-12-10 05:34:30 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:30 : INFO] - 65 
+[2021-12-10 05:34:36 : INFO] - Backing up the original image - 2021/12/20211130_150911-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 05:34:36 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:36 : INFO] - 65 
+[2021-12-10 05:34:40 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:40 : INFO] - 65 
+[2021-12-10 05:34:42 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:42 : INFO] - 65 
+[2021-12-10 05:34:42 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:42 : INFO] - 65 
+[2021-12-10 05:34:44 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:44 : INFO] - 65 
+[2021-12-10 05:34:46 : INFO] - Re_Smush_It_Task with attachment ID : 2871, autocreated on : December 10, 2021 05:26:29 
+[2021-12-10 05:34:46 : INFO] - 65 
+[2021-12-10 05:34:53 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211130_150911-scaled.jpg.The file was compressed from 709.63 KB to 537.49 KB saving 24.26 percent using WP-Optimize 
+[2021-12-10 05:34:53 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2021-12-10 05:34:53 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 05:34:53 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-12-10 05:34:53 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 05:34:53 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-12-10 05:44:12 : INFO] - 
+ 
+[2021-12-10 05:44:12 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 05:44:12 +0000 on https://vistadalagoa.com 
+[2021-12-10 05:44:12 : INFO] - WP: 5.8.2 
+[2021-12-10 05:44:12 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 05:44:12 : INFO] - MySQL: 5.5.5 
+[2021-12-10 05:44:12 : INFO] - WPLANG: en_US 
+[2021-12-10 05:44:12 : INFO] - Server: LiteSpeed 
+[2021-12-10 05:44:12 : INFO] - Outbound connections: N 
+[2021-12-10 05:44:12 : INFO] - safe_mode: 0 
+[2021-12-10 05:44:12 : INFO] - max_execution_time: 30 
+[2021-12-10 05:44:12 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 05:44:12 : INFO] - multisite: N 
+[2021-12-10 05:44:12 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 05:44:12 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-10 06:28:57 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:30:33 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:31:31 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:33:13 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:00 : INFO] - 
+ 
+[2021-12-10 06:34:00 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 06:34:00 +0000 on https://vistadalagoa.com 
+[2021-12-10 06:34:00 : INFO] - WP: 5.8.2 
+[2021-12-10 06:34:00 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 06:34:00 : INFO] - MySQL: 5.5.5 
+[2021-12-10 06:34:00 : INFO] - WPLANG: en_US 
+[2021-12-10 06:34:00 : INFO] - Server: LiteSpeed 
+[2021-12-10 06:34:00 : INFO] - Outbound connections: N 
+[2021-12-10 06:34:00 : INFO] - safe_mode: 0 
+[2021-12-10 06:34:00 : INFO] - max_execution_time: 30 
+[2021-12-10 06:34:00 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 06:34:00 : INFO] - multisite: N 
+[2021-12-10 06:34:00 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 06:34:00 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 06:34:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 06:34:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 06:34:00 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2021-12-10 06:34:00 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:00 : INFO] - 65 
+[2021-12-10 06:34:02 : INFO] - Backing up the original image - 2021/12/20211029_102359-Copy-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 06:34:02 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:02 : INFO] - 65 
+[2021-12-10 06:34:02 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:02 : INFO] - 65 
+[2021-12-10 06:34:04 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:04 : INFO] - 65 
+[2021-12-10 06:34:04 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:04 : INFO] - 65 
+[2021-12-10 06:34:05 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:05 : INFO] - 65 
+[2021-12-10 06:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 2899, autocreated on : December 10, 2021 06:28:57 
+[2021-12-10 06:34:06 : INFO] - 65 
+[2021-12-10 06:34:12 : INFO] - Task with ID 37 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-10 06:34:12 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/2b977e15d2b9ddcac2ff5eb3b2bd89d5\/_src_20211029_102359-Copy-2048x1152.jpg","dest":"http:\/\/par3.static.resmush.it\/2b977e15d2b9ddcac2ff5eb3b2bd89d5\/20211029_102359-Copy-2048x1152.jpg","src_size":197878,"dest_size":148886,"percent":25,"output":"json","expires":"Fri, 10 Dec 2021 07:39:07 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-10 06:34:12 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211029_102359-Copy-scaled.jpg.The file was compressed from 292.47 KB to 216.55 KB saving 25.96 percent using WP-Optimize 
+[2021-12-10 06:34:12 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2021-12-10 06:34:12 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2021-12-10 06:34:12 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:12 : INFO] - 65 
+[2021-12-10 06:34:15 : INFO] - Backing up the original image - 2021/12/20211029_161908-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 06:34:15 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:15 : INFO] - 65 
+[2021-12-10 06:34:17 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:17 : INFO] - 65 
+[2021-12-10 06:34:19 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:19 : INFO] - 65 
+[2021-12-10 06:34:20 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:20 : INFO] - 65 
+[2021-12-10 06:34:22 : INFO] - Re_Smush_It_Task with attachment ID : 2900, autocreated on : December 10, 2021 06:30:33 
+[2021-12-10 06:34:22 : INFO] - 65 
+[2021-12-10 06:34:23 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211029_161908-scaled.jpg.The file was compressed from 348.71 KB to 249.19 KB saving 28.54 percent using WP-Optimize 
+[2021-12-10 06:34:23 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2021-12-10 06:34:23 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2021-12-10 06:34:23 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:23 : INFO] - 65 
+[2021-12-10 06:34:25 : INFO] - Backing up the original image - 2021/12/20211029_161926-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 06:34:25 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:25 : INFO] - 65 
+[2021-12-10 06:34:27 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:27 : INFO] - 65 
+[2021-12-10 06:34:28 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:28 : INFO] - 65 
+[2021-12-10 06:34:29 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:29 : INFO] - 65 
+[2021-12-10 06:34:31 : INFO] - Re_Smush_It_Task with attachment ID : 2901, autocreated on : December 10, 2021 06:31:31 
+[2021-12-10 06:34:31 : INFO] - 65 
+[2021-12-10 06:34:33 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211029_161926-scaled.jpg.The file was compressed from 353.94 KB to 250.86 KB saving 29.12 percent using WP-Optimize 
+[2021-12-10 06:34:33 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2021-12-10 06:34:33 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2021-12-10 06:34:33 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:33 : INFO] - 65 
+[2021-12-10 06:34:35 : INFO] - Backing up the original image - 2021/12/Balcony-PBV-1-scaled-updraft-pre-smush-original.jpg 
+[2021-12-10 06:34:35 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:35 : INFO] - 65 
+[2021-12-10 06:34:36 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:36 : INFO] - 65 
+[2021-12-10 06:34:38 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:38 : INFO] - 65 
+[2021-12-10 06:34:41 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:41 : INFO] - 65 
+[2021-12-10 06:34:42 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:42 : INFO] - 65 
+[2021-12-10 06:34:45 : INFO] - Re_Smush_It_Task with attachment ID : 2902, autocreated on : December 10, 2021 06:33:13 
+[2021-12-10 06:34:45 : INFO] - 65 
+[2021-12-10 06:34:48 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Balcony-PBV-1-scaled.jpg.The file was compressed from 1.21 MB to 940.48 KB saving 24.2 percent using WP-Optimize 
+[2021-12-10 06:34:48 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2021-12-10 06:34:48 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 06:34:48 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-12-10 06:34:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 06:34:48 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-12-10 06:44:11 : INFO] - 
+ 
+[2021-12-10 06:44:11 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 06:44:11 +0000 on https://vistadalagoa.com 
+[2021-12-10 06:44:11 : INFO] - WP: 5.8.2 
+[2021-12-10 06:44:11 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 06:44:11 : INFO] - MySQL: 5.5.5 
+[2021-12-10 06:44:11 : INFO] - WPLANG: en_US 
+[2021-12-10 06:44:11 : INFO] - Server: LiteSpeed 
+[2021-12-10 06:44:11 : INFO] - Outbound connections: N 
+[2021-12-10 06:44:11 : INFO] - safe_mode: 0 
+[2021-12-10 06:44:11 : INFO] - max_execution_time: 30 
+[2021-12-10 06:44:11 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 06:44:11 : INFO] - multisite: N 
+[2021-12-10 06:44:11 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 06:44:11 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-10 07:23:57 : INFO] - Re_Smush_It_Task with attachment ID : 2918, autocreated on : December 10, 2021 07:23:57 
+[2021-12-10 07:28:59 : INFO] - 
+ 
+[2021-12-10 07:28:59 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 07:28:59 +0000 on https://vistadalagoa.com 
+[2021-12-10 07:28:59 : INFO] - WP: 5.8.2 
+[2021-12-10 07:28:59 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 07:28:59 : INFO] - MySQL: 5.5.5 
+[2021-12-10 07:28:59 : INFO] - WPLANG: en_US 
+[2021-12-10 07:28:59 : INFO] - Server: LiteSpeed 
+[2021-12-10 07:28:59 : INFO] - Outbound connections: N 
+[2021-12-10 07:28:59 : INFO] - safe_mode: 0 
+[2021-12-10 07:28:59 : INFO] - max_execution_time: 30 
+[2021-12-10 07:28:59 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 07:28:59 : INFO] - multisite: N 
+[2021-12-10 07:28:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 07:28:59 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 07:28:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 07:28:59 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 07:28:59 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2021-12-10 07:28:59 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2021-12-10 07:28:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 07:28:59 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-10 07:28:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 07:28:59 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-10 07:40:35 : INFO] - 
+ 
+[2021-12-10 07:40:35 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 07:40:35 +0000 on https://vistadalagoa.com 
+[2021-12-10 07:40:35 : INFO] - WP: 5.8.2 
+[2021-12-10 07:40:35 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 07:40:35 : INFO] - MySQL: 5.5.5 
+[2021-12-10 07:40:35 : INFO] - WPLANG: en_US 
+[2021-12-10 07:40:35 : INFO] - Server: LiteSpeed 
+[2021-12-10 07:40:35 : INFO] - Outbound connections: N 
+[2021-12-10 07:40:35 : INFO] - safe_mode: 0 
+[2021-12-10 07:40:35 : INFO] - max_execution_time: 30 
+[2021-12-10 07:40:35 : INFO] - memory_limit: 128M (used: 52.2M | 54.5M) 
+[2021-12-10 07:40:35 : INFO] - multisite: N 
+[2021-12-10 07:40:35 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 07:40:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-10 14:59:22 : INFO] - Re_Smush_It_Task with attachment ID : 3035, autocreated on : December 10, 2021 02:59:22 
+[2021-12-10 15:04:25 : INFO] - 
+ 
+[2021-12-10 15:04:25 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 15:04:25 +0000 on https://vistadalagoa.com 
+[2021-12-10 15:04:25 : INFO] - WP: 5.8.2 
+[2021-12-10 15:04:25 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 15:04:25 : INFO] - MySQL: 5.5.5 
+[2021-12-10 15:04:25 : INFO] - WPLANG: en_US 
+[2021-12-10 15:04:25 : INFO] - Server: LiteSpeed 
+[2021-12-10 15:04:25 : INFO] - Outbound connections: N 
+[2021-12-10 15:04:25 : INFO] - safe_mode: 0 
+[2021-12-10 15:04:25 : INFO] - max_execution_time: 30 
+[2021-12-10 15:04:25 : INFO] - memory_limit: 128M (used: 48.4M | 50.5M) 
+[2021-12-10 15:04:25 : INFO] - multisite: N 
+[2021-12-10 15:04:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 15:04:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 15:04:25 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 15:04:25 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 15:04:25 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2021-12-10 15:04:25 : INFO] - Re_Smush_It_Task with attachment ID : 3035, autocreated on : December 10, 2021 02:59:22 
+[2021-12-10 15:04:25 : INFO] - 65 
+[2021-12-10 15:04:29 : INFO] - Backing up the original image - 2021/12/vector-white-envelope-icon-image-260nw-384815566-updraft-pre-smush-original.jpg 
+[2021-12-10 15:04:29 : INFO] - Re_Smush_It_Task with attachment ID : 3035, autocreated on : December 10, 2021 02:59:22 
+[2021-12-10 15:04:29 : INFO] - 65 
+[2021-12-10 15:04:29 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/vector-white-envelope-icon-image-260nw-384815566.jpg.The file was compressed from 28.26 KB to 5.27 KB saving 81.35 percent using WP-Optimize 
+[2021-12-10 15:04:29 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2021-12-10 15:04:29 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 15:04:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-10 15:04:29 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 15:04:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-10 15:14:50 : INFO] - 
+ 
+[2021-12-10 15:14:50 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 15:14:50 +0000 on https://vistadalagoa.com 
+[2021-12-10 15:14:50 : INFO] - WP: 5.8.2 
+[2021-12-10 15:14:50 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 15:14:50 : INFO] - MySQL: 5.5.5 
+[2021-12-10 15:14:50 : INFO] - WPLANG: en_US 
+[2021-12-10 15:14:50 : INFO] - Server: LiteSpeed 
+[2021-12-10 15:14:50 : INFO] - Outbound connections: N 
+[2021-12-10 15:14:50 : INFO] - safe_mode: 0 
+[2021-12-10 15:14:50 : INFO] - max_execution_time: 30 
+[2021-12-10 15:14:50 : INFO] - memory_limit: 256M (used: 48.4M | 50.5M) 
+[2021-12-10 15:14:50 : INFO] - multisite: N 
+[2021-12-10 15:14:50 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 15:14:50 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-10 15:16:00 : INFO] - Re_Smush_It_Task with attachment ID : 3052, autocreated on : December 10, 2021 03:16:00 
+[2021-12-10 15:16:43 : INFO] - Re_Smush_It_Task with attachment ID : 3053, autocreated on : December 10, 2021 03:16:43 
+[2021-12-10 15:22:35 : INFO] - 
+ 
+[2021-12-10 15:22:35 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 15:22:35 +0000 on https://vistadalagoa.com 
+[2021-12-10 15:22:35 : INFO] - WP: 5.8.2 
+[2021-12-10 15:22:35 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 15:22:35 : INFO] - MySQL: 5.5.5 
+[2021-12-10 15:22:35 : INFO] - WPLANG: en_US 
+[2021-12-10 15:22:35 : INFO] - Server: LiteSpeed 
+[2021-12-10 15:22:35 : INFO] - Outbound connections: N 
+[2021-12-10 15:22:35 : INFO] - safe_mode: 0 
+[2021-12-10 15:22:35 : INFO] - max_execution_time: 30 
+[2021-12-10 15:22:35 : INFO] - memory_limit: 256M (used: 48.4M | 50.5M) 
+[2021-12-10 15:22:35 : INFO] - multisite: N 
+[2021-12-10 15:22:35 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 15:22:35 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-10 15:22:35 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-10 15:22:35 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-10 15:22:35 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2021-12-10 15:22:35 : INFO] - Re_Smush_It_Task with attachment ID : 3052, autocreated on : December 10, 2021 03:16:00 
+[2021-12-10 15:22:35 : INFO] - 65 
+[2021-12-10 15:22:40 : INFO] - Backing up the original image - 2021/12/depositphotos_61440347-stock-illustration-vector-e-updraft-pre-smush-original.jpg 
+[2021-12-10 15:22:40 : INFO] - Re_Smush_It_Task with attachment ID : 3052, autocreated on : December 10, 2021 03:16:00 
+[2021-12-10 15:22:40 : INFO] - 65 
+[2021-12-10 15:22:41 : INFO] - Re_Smush_It_Task with attachment ID : 3052, autocreated on : December 10, 2021 03:16:00 
+[2021-12-10 15:22:41 : INFO] - 65 
+[2021-12-10 15:22:45 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/depositphotos_61440347-stock-illustration-vector-e.jpg.The file was compressed from 29.84 KB to 7.66 KB saving 74.33 percent using WP-Optimize 
+[2021-12-10 15:22:45 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2021-12-10 15:22:45 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2021-12-10 15:22:45 : INFO] - Re_Smush_It_Task with attachment ID : 3053, autocreated on : December 10, 2021 03:16:43 
+[2021-12-10 15:22:45 : INFO] - 65 
+[2021-12-10 15:22:47 : INFO] - Backing up the original image - 2021/12/email-updraft-pre-smush-original.png 
+[2021-12-10 15:22:47 : INFO] - Re_Smush_It_Task with attachment ID : 3053, autocreated on : December 10, 2021 03:16:43 
+[2021-12-10 15:22:47 : INFO] - 65 
+[2021-12-10 15:22:49 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/email.png.The file was compressed from 14.41 KB to 7.85 KB saving 45.53 percent using WP-Optimize 
+[2021-12-10 15:22:49 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2021-12-10 15:22:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-10 15:22:49 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-10 15:22:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-10 15:22:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-12-10 15:36:42 : INFO] - 
+ 
+[2021-12-10 15:36:42 : INFO] - Header for logs at time:  Fri, 10 Dec 2021 15:36:42 +0000 on https://vistadalagoa.com 
+[2021-12-10 15:36:42 : INFO] - WP: 5.8.2 
+[2021-12-10 15:36:42 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-10 15:36:42 : INFO] - MySQL: 5.5.5 
+[2021-12-10 15:36:42 : INFO] - WPLANG: en_US 
+[2021-12-10 15:36:42 : INFO] - Server: LiteSpeed 
+[2021-12-10 15:36:42 : INFO] - Outbound connections: N 
+[2021-12-10 15:36:42 : INFO] - safe_mode: 0 
+[2021-12-10 15:36:42 : INFO] - max_execution_time: 30 
+[2021-12-10 15:36:42 : INFO] - memory_limit: 256M (used: 48.4M | 50.5M) 
+[2021-12-10 15:36:42 : INFO] - multisite: N 
+[2021-12-10 15:36:42 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-10 15:36:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-14 07:06:50 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:11:54 : INFO] - 
+ 
+[2021-12-14 07:11:54 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 07:11:54 +0000 on https://vistadalagoa.com 
+[2021-12-14 07:11:54 : INFO] - WP: 5.8.2 
+[2021-12-14 07:11:54 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 07:11:54 : INFO] - MySQL: 5.5.5 
+[2021-12-14 07:11:54 : INFO] - WPLANG: en_US 
+[2021-12-14 07:11:54 : INFO] - Server: LiteSpeed 
+[2021-12-14 07:11:54 : INFO] - Outbound connections: N 
+[2021-12-14 07:11:54 : INFO] - safe_mode: 0 
+[2021-12-14 07:11:54 : INFO] - max_execution_time: 30 
+[2021-12-14 07:11:54 : INFO] - memory_limit: 128M (used: 48.4M | 50.5M) 
+[2021-12-14 07:11:54 : INFO] - multisite: N 
+[2021-12-14 07:11:54 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 07:11:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-14 07:11:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-14 07:11:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-14 07:11:54 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2021-12-14 07:11:54 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:11:54 : INFO] - 65 
+[2021-12-14 07:12:00 : INFO] - Backing up the original image - 2021/12/20211101_123805-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:12:00 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:00 : INFO] - 65 
+[2021-12-14 07:12:03 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:03 : INFO] - 65 
+[2021-12-14 07:12:08 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:08 : INFO] - 65 
+[2021-12-14 07:12:10 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:10 : INFO] - 65 
+[2021-12-14 07:12:11 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:11 : INFO] - 65 
+[2021-12-14 07:12:14 : INFO] - Re_Smush_It_Task with attachment ID : 3156, autocreated on : December 14, 2021 07:06:50 
+[2021-12-14 07:12:14 : INFO] - 65 
+[2021-12-14 07:12:19 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211101_123805-scaled.jpg.The file was compressed from 690.21 KB to 517.49 KB saving 25.02 percent using WP-Optimize 
+[2021-12-14 07:12:19 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2021-12-14 07:12:19 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-14 07:12:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-14 07:12:19 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-14 07:12:19 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-14 07:22:04 : INFO] - 
+ 
+[2021-12-14 07:22:04 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 07:22:04 +0000 on https://vistadalagoa.com 
+[2021-12-14 07:22:04 : INFO] - WP: 5.8.2 
+[2021-12-14 07:22:04 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 07:22:04 : INFO] - MySQL: 5.5.5 
+[2021-12-14 07:22:04 : INFO] - WPLANG: en_US 
+[2021-12-14 07:22:04 : INFO] - Server: LiteSpeed 
+[2021-12-14 07:22:04 : INFO] - Outbound connections: N 
+[2021-12-14 07:22:04 : INFO] - safe_mode: 0 
+[2021-12-14 07:22:04 : INFO] - max_execution_time: 30 
+[2021-12-14 07:22:04 : INFO] - memory_limit: 128M (used: 48.4M | 50.5M) 
+[2021-12-14 07:22:04 : INFO] - multisite: N 
+[2021-12-14 07:22:04 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 07:22:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-14 07:22:10 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:22:38 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:23:17 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:25:08 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:25:28 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:26:41 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:27:10 : INFO] - 
+ 
+[2021-12-14 07:27:10 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 07:27:10 +0000 on https://vistadalagoa.com 
+[2021-12-14 07:27:10 : INFO] - WP: 5.8.2 
+[2021-12-14 07:27:10 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 07:27:10 : INFO] - MySQL: 5.5.5 
+[2021-12-14 07:27:10 : INFO] - WPLANG: en_US 
+[2021-12-14 07:27:10 : INFO] - Server: LiteSpeed 
+[2021-12-14 07:27:10 : INFO] - Outbound connections: N 
+[2021-12-14 07:27:10 : INFO] - safe_mode: 0 
+[2021-12-14 07:27:10 : INFO] - max_execution_time: 30 
+[2021-12-14 07:27:10 : INFO] - memory_limit: 128M (used: 48.4M | 50.5M) 
+[2021-12-14 07:27:10 : INFO] - multisite: N 
+[2021-12-14 07:27:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 07:27:10 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2021-12-14 07:27:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-14 07:27:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-14 07:27:10 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2021-12-14 07:27:10 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:27:10 : INFO] - 65 
+[2021-12-14 07:27:11 : INFO] - Backing up the original image - 2021/12/Sunset-updraft-pre-smush-original.jpg 
+[2021-12-14 07:27:11 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:27:11 : INFO] - 65 
+[2021-12-14 07:27:13 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:27:13 : INFO] - 65 
+[2021-12-14 07:27:14 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:27:14 : INFO] - 65 
+[2021-12-14 07:27:15 : INFO] - Re_Smush_It_Task with attachment ID : 3160, autocreated on : December 14, 2021 07:22:10 
+[2021-12-14 07:27:15 : INFO] - 65 
+[2021-12-14 07:27:17 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Sunset.jpg.The file was compressed from 25.98 KB to 25.98 KB saving 0 percent using WP-Optimize 
+[2021-12-14 07:27:17 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2021-12-14 07:27:17 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2021-12-14 07:27:17 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:27:17 : INFO] - 65 
+[2021-12-14 07:27:18 : INFO] - Backing up the original image - 2021/12/Moijto-updraft-pre-smush-original.jpg 
+[2021-12-14 07:27:18 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:27:18 : INFO] - 65 
+[2021-12-14 07:27:22 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:27:22 : INFO] - 65 
+[2021-12-14 07:27:30 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:27:30 : INFO] - 65 
+[2021-12-14 07:27:31 : INFO] - Re_Smush_It_Task with attachment ID : 3161, autocreated on : December 14, 2021 07:22:38 
+[2021-12-14 07:27:31 : INFO] - 65 
+[2021-12-14 07:27:35 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Moijto.jpg.The file was compressed from 67.90 KB to 67.90 KB saving 0 percent using WP-Optimize 
+[2021-12-14 07:27:35 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2021-12-14 07:27:35 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2021-12-14 07:27:35 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:27:35 : INFO] - 65 
+[2021-12-14 07:27:37 : INFO] - Backing up the original image - 2021/12/Visit-Again-updraft-pre-smush-original.jpg 
+[2021-12-14 07:27:37 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:27:37 : INFO] - 65 
+[2021-12-14 07:27:38 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:27:38 : INFO] - 65 
+[2021-12-14 07:27:40 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:27:40 : INFO] - 65 
+[2021-12-14 07:27:47 : INFO] - Re_Smush_It_Task with attachment ID : 3162, autocreated on : December 14, 2021 07:23:17 
+[2021-12-14 07:27:47 : INFO] - 65 
+[2021-12-14 07:27:48 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/Visit-Again.jpg.The file was compressed from 161.33 KB to 160.83 KB saving 0.31 percent using WP-Optimize 
+[2021-12-14 07:27:48 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2021-12-14 07:27:48 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2021-12-14 07:27:48 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:48 : INFO] - 65 
+[2021-12-14 07:27:51 : INFO] - Backing up the original image - 2021/12/20211101_134745-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:51 : INFO] - 65 
+[2021-12-14 07:27:52 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:52 : INFO] - 65 
+[2021-12-14 07:27:54 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:54 : INFO] - 65 
+[2021-12-14 07:27:55 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:55 : INFO] - 65 
+[2021-12-14 07:27:57 : INFO] - Re_Smush_It_Task with attachment ID : 3163, autocreated on : December 14, 2021 07:25:08 
+[2021-12-14 07:27:57 : INFO] - 65 
+[2021-12-14 07:27:59 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211101_134745-scaled.jpg.The file was compressed from 1,011.44 KB to 759.60 KB saving 24.9 percent using WP-Optimize 
+[2021-12-14 07:27:59 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2021-12-14 07:27:59 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2021-12-14 07:27:59 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:27:59 : INFO] - 65 
+[2021-12-14 07:28:02 : INFO] - Backing up the original image - 2021/12/20211123_142319-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:28:02 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:02 : INFO] - 65 
+[2021-12-14 07:28:07 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:07 : INFO] - 65 
+[2021-12-14 07:28:08 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:08 : INFO] - 65 
+[2021-12-14 07:28:09 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:09 : INFO] - 65 
+[2021-12-14 07:28:10 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:10 : INFO] - 65 
+[2021-12-14 07:28:12 : INFO] - Re_Smush_It_Task with attachment ID : 3165, autocreated on : December 14, 2021 07:25:28 
+[2021-12-14 07:28:12 : INFO] - 65 
+[2021-12-14 07:28:15 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_142319-scaled.jpg.The file was compressed from 733.30 KB to 556.48 KB saving 24.11 percent using WP-Optimize 
+[2021-12-14 07:28:15 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2021-12-14 07:28:15 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2021-12-14 07:28:15 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:15 : INFO] - 65 
+[2021-12-14 07:28:17 : INFO] - Backing up the original image - 2021/12/20211123_142607-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:17 : INFO] - 65 
+[2021-12-14 07:28:26 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:26 : INFO] - 65 
+[2021-12-14 07:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:27 : INFO] - 65 
+[2021-12-14 07:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:27 : INFO] - 65 
+[2021-12-14 07:28:28 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:28 : INFO] - 65 
+[2021-12-14 07:28:30 : INFO] - Re_Smush_It_Task with attachment ID : 3166, autocreated on : December 14, 2021 07:26:41 
+[2021-12-14 07:28:30 : INFO] - 65 
+[2021-12-14 07:28:32 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/20211123_142607-scaled.jpg.The file was compressed from 375.43 KB to 282.58 KB saving 24.73 percent using WP-Optimize 
+[2021-12-14 07:28:32 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2021-12-14 07:28:32 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-14 07:28:32 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2021-12-14 07:28:32 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-14 07:28:32 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2021-12-14 07:31:19 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:36:53 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:37:29 : INFO] - 
+ 
+[2021-12-14 07:37:29 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 07:37:29 +0000 on https://vistadalagoa.com 
+[2021-12-14 07:37:29 : INFO] - WP: 5.8.2 
+[2021-12-14 07:37:29 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 07:37:29 : INFO] - MySQL: 5.5.5 
+[2021-12-14 07:37:29 : INFO] - WPLANG: en_US 
+[2021-12-14 07:37:29 : INFO] - Server: LiteSpeed 
+[2021-12-14 07:37:29 : INFO] - Outbound connections: N 
+[2021-12-14 07:37:29 : INFO] - safe_mode: 0 
+[2021-12-14 07:37:29 : INFO] - max_execution_time: 30 
+[2021-12-14 07:37:29 : INFO] - memory_limit: 128M (used: 48.4M | 50.5M) 
+[2021-12-14 07:37:29 : INFO] - multisite: N 
+[2021-12-14 07:37:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 07:37:29 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-14 07:37:29 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-14 07:37:29 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-14 07:37:29 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2021-12-14 07:37:29 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:29 : INFO] - 65 
+[2021-12-14 07:37:30 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:37:31 : INFO] - Backing up the original image - 2021/12/View-1-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:37:31 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:31 : INFO] - 65 
+[2021-12-14 07:37:32 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:32 : INFO] - 65 
+[2021-12-14 07:37:33 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:33 : INFO] - 65 
+[2021-12-14 07:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:37 : INFO] - 65 
+[2021-12-14 07:37:41 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:41 : INFO] - 65 
+[2021-12-14 07:37:43 : INFO] - Re_Smush_It_Task with attachment ID : 3167, autocreated on : December 14, 2021 07:31:19 
+[2021-12-14 07:37:43 : INFO] - 65 
+[2021-12-14 07:37:45 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/View-1-scaled.jpg.The file was compressed from 564.80 KB to 427.81 KB saving 24.26 percent using WP-Optimize 
+[2021-12-14 07:37:45 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2021-12-14 07:37:45 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2021-12-14 07:37:45 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:37:45 : INFO] - 65 
+[2021-12-14 07:37:50 : INFO] - Backing up the original image - 2021/12/VDL-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:37:50 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:37:50 : INFO] - 65 
+[2021-12-14 07:37:52 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:37:52 : INFO] - 65 
+[2021-12-14 07:37:57 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:37:57 : INFO] - 65 
+[2021-12-14 07:38:01 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:38:01 : INFO] - 65 
+[2021-12-14 07:38:02 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:38:02 : INFO] - 65 
+[2021-12-14 07:38:04 : INFO] - Re_Smush_It_Task with attachment ID : 3172, autocreated on : December 14, 2021 07:36:53 
+[2021-12-14 07:38:04 : INFO] - 65 
+[2021-12-14 07:38:06 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/VDL-scaled.jpg.The file was compressed from 457.80 KB to 346.07 KB saving 24.41 percent using WP-Optimize 
+[2021-12-14 07:38:06 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2021-12-14 07:38:06 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-14 07:38:06 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-14 07:38:06 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-14 07:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:29 : INFO] - 
+ 
+[2021-12-14 07:47:29 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 07:47:29 +0000 on https://vistadalagoa.com 
+[2021-12-14 07:47:29 : INFO] - WP: 5.8.2 
+[2021-12-14 07:47:29 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 07:47:29 : INFO] - MySQL: 5.5.5 
+[2021-12-14 07:47:29 : INFO] - WPLANG: en_US 
+[2021-12-14 07:47:29 : INFO] - Server: LiteSpeed 
+[2021-12-14 07:47:29 : INFO] - Outbound connections: N 
+[2021-12-14 07:47:29 : INFO] - safe_mode: 0 
+[2021-12-14 07:47:29 : INFO] - max_execution_time: 30 
+[2021-12-14 07:47:29 : INFO] - memory_limit: 256M (used: 48.4M | 50.5M) 
+[2021-12-14 07:47:29 : INFO] - multisite: N 
+[2021-12-14 07:47:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 07:47:29 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-14 07:47:29 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-14 07:47:29 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-14 07:47:29 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2021-12-14 07:47:29 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:29 : INFO] - 65 
+[2021-12-14 07:47:32 : INFO] - Backing up the original image - 2021/12/LV-VIEW-2-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:47:32 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:32 : INFO] - 65 
+[2021-12-14 07:47:37 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:37 : INFO] - 65 
+[2021-12-14 07:47:38 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:38 : INFO] - 65 
+[2021-12-14 07:47:39 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:39 : INFO] - 65 
+[2021-12-14 07:47:40 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:40 : INFO] - 65 
+[2021-12-14 07:47:44 : INFO] - Re_Smush_It_Task with attachment ID : 3173, autocreated on : December 14, 2021 07:37:30 
+[2021-12-14 07:47:44 : INFO] - 65 
+[2021-12-14 07:47:46 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/LV-VIEW-2-scaled.jpg.The file was compressed from 611.34 KB to 466.04 KB saving 23.77 percent using WP-Optimize 
+[2021-12-14 07:47:46 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2021-12-14 07:47:46 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2021-12-14 07:47:46 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:46 : INFO] - 65 
+[2021-12-14 07:47:50 : INFO] - Backing up the original image - 2021/12/View-2-scaled-updraft-pre-smush-original.jpg 
+[2021-12-14 07:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:50 : INFO] - 65 
+[2021-12-14 07:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:50 : INFO] - 65 
+[2021-12-14 07:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:53 : INFO] - 65 
+[2021-12-14 07:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:53 : INFO] - 65 
+[2021-12-14 07:47:56 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:56 : INFO] - 65 
+[2021-12-14 07:47:58 : INFO] - Re_Smush_It_Task with attachment ID : 3174, autocreated on : December 14, 2021 07:38:19 
+[2021-12-14 07:47:58 : INFO] - 65 
+[2021-12-14 07:48:00 : INFO] - Successfully optimized the image - /home1/thapasan/vistadalagoa.com/wp-content/uploads/2021/12/View-2-scaled.jpg.The file was compressed from 690.48 KB to 531.43 KB saving 23.03 percent using WP-Optimize 
+[2021-12-14 07:48:00 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2021-12-14 07:48:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2021-12-14 07:48:00 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-14 07:48:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2021-12-14 07:48:00 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-12-14 08:10:22 : INFO] - 
+ 
+[2021-12-14 08:10:22 : INFO] - Header for logs at time:  Tue, 14 Dec 2021 08:10:22 +0000 on https://vistadalagoa.com 
+[2021-12-14 08:10:22 : INFO] - WP: 5.8.2 
+[2021-12-14 08:10:22 : INFO] - PHP: 7.4.26 (litespeed, Linux corporate.vip5.noc401.com 3.10.0-962.3.2.lve1.5.63.el7.x86_64 #1 SMP Fri Oct 8 12:03:35 UTC 2021 x86_64) 
+[2021-12-14 08:10:22 : INFO] - MySQL: 5.5.5 
+[2021-12-14 08:10:22 : INFO] - WPLANG: en_US 
+[2021-12-14 08:10:22 : INFO] - Server: LiteSpeed 
+[2021-12-14 08:10:22 : INFO] - Outbound connections: N 
+[2021-12-14 08:10:22 : INFO] - safe_mode: 0 
+[2021-12-14 08:10:22 : INFO] - max_execution_time: 30 
+[2021-12-14 08:10:22 : INFO] - memory_limit: 256M (used: 48.4M | 50.5M) 
+[2021-12-14 08:10:22 : INFO] - multisite: N 
+[2021-12-14 08:10:22 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-14 08:10:22 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
